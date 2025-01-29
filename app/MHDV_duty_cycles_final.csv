@@ -1,0 +1,32 @@
+WeightClass,VehicleApplication,Configuration,average_daily_distance_mile,yearly_days_operation,years_ownership,Moves_Category
+Class 2b,Freight and Cargo,Cargo Van,60,260,10,Light Commercial Truck
+Class 2b,Freight and Cargo,Chassis Cab,60,260,10,Light Commercial Truck
+Class 2b,Freight and Cargo,Step Van,60,260,10,Light Commercial Truck
+Class 3,Freight and Cargo,Step Van,60,260,10,Single Unit Short-haul Truck
+Class 3,Freight and Cargo,Chassis Cab,60,260,10,Single Unit Short-haul Truck
+Class 3,Freight and Cargo,Cargo Van,60,260,10,Single Unit Short-haul Truck
+Class 4,Freight and Cargo,Cargo Van,70,260,10,Single Unit Short-haul Truck
+Class 4,Freight and Cargo,Chassis Cab,70,260,10,Single Unit Short-haul Truck
+Class 4,Freight and Cargo,Box Truck,70,260,10,Single Unit Short-haul Truck
+Class 4,Freight and Cargo,Step Van,70,260,10,Single Unit Short-haul Truck
+Class 5,Freight and Cargo,Box Truck,70,260,10,Single Unit Long-haul Truck
+Class 5,Freight and Cargo,Step Van,70,260,10,Single Unit Long-haul Truck
+Class 5,Freight and Cargo,Chassis Cab,70,260,10,Single Unit Long-haul Truck
+Class 6,Freight and Cargo,Box Truck,80,260,10,Single Unit Long-haul Truck
+Class 6,Freight and Cargo,Step Van,80,260,10,Single Unit Long-haul Truck
+Class 6,Freight and Cargo,Chassis Cab,80,260,10,Single Unit Long-haul Truck
+Class 7,Freight and Cargo,Box Truck,90,260,10,Single Unit Long-haul Truck
+Class 7,Freight and Cargo,Chassis Cab,85,260,10,Single Unit Long-haul Truck
+Class 8,Specialized Services,Refuse,80,280,10,Single Unit Long-haul Truck
+Class 8,Freight and Cargo,Box Truck,85,260,10,Single Unit Long-haul Truck
+Class 8 Regional,Freight and Cargo,Tractor,230,260,10,Combination Short-haul Truck
+Class 8 Long Haul,Freight and Cargo,Tractor,370,260,10,Combination Long-haul Truck
+Class 8,Specialized Services,Fire Truck,62,225,10,Single Unit Long-haul Truck
+Class 3,Passenger Transport,Passenger Van,95,260,10,Light Commercial Truck
+Class 4,Passenger Transport,Passenger Van,95,260,10,Light Commercial Truck
+Class 4,Passenger Transport,Shuttle Bus,115,260,10,Single Unit Short-haul Truck
+Type A,Passenger Transport,School Bus,75,195,13,School Bus
+Type C,Passenger Transport,School Bus,75,195,13,School Bus
+Type D,Passenger Transport,School Bus,75,195,13,School Bus
+Class 8 40ft,Passenger Transport,Transit Bus,155,275,14,Transit Bus
+Class 8,Passenger Transport,Coach Bus,124,260,12,Transit Bus

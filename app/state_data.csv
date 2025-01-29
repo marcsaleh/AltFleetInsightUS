@@ -1,0 +1,52 @@
+,Unnamed: 0,PAAD,state_region,NERC,Gasoline,Diesel,Diesel HEV,Biodiesel B20,Renewable Diesel R99,Battery electric,Hydrogen Fuel Cell,CNG,RNG,grid_intensity_NERCC
+0,0,Gulf Coast,Alabama,SERC,4.02,4.72,4.72,4.19,0,0.13,0,2.73,3.69,500.6
+1,1,West Coast,Alaska,ASCC,3.83,4.74,4.74,0,0,0.23,0,2.51,3.39,607.94
+2,2,West Coast,Arizona,WECC,4.53,5.14,5.14,4.84,0,0.13,0,2.45,3.31,373.61
+3,3,Gulf Coast,Arkansas,SPP,3.56,4.72,4.72,4.56,0,0.11,0,2.37,3.2,478.53
+4,4,West Coast,California,CA,5.67,6.05,6.05,5.89,6.18,0.23,16.83,3.08,4.16,302.13
+5,5,Rocky Mountain,Colorado,WECC,3.99,4.68,4.68,4.38,0,0.13,0,2.97,4.01,373.61
+6,6,New England,Connecticut,NPCC,3.91,5.15,5.15,0,0,0.22,0,3.26,4.4,279.36
+7,7,Central Atlantic,Delaware,RFC,3.82,4.87,4.87,0,0,0.13,0,2.74,3.7,474.94
+8,8,Central Atlantic,District of Columbia,RFC,3.83,4.75,4.75,0,0,0.13,0,0,0,474.94
+9,9,Lower Atlantic,Florida,FRCC,3.76,4.68,4.68,0,0,0.12,0,2.92,3.94,497.09
+10,10,Lower Atlantic,Georgia,SERC,3.67,4.56,4.56,0,0,0.13,0,2.78,3.75,500.6
+11,11,West Coast,Hawaii,HICC,4.72,5.41,5.41,5.12,0,0.33,0,0,0,890.97
+12,12,Rocky Mountain,Idaho,WECC,4.36,5.11,5.11,0,0,0.1,0,2.42,3.27,373.61
+13,13,Midwest,Illinois,RFC,4.3,4.41,4.41,4.86,0,0.13,12.18,2.56,3.46,474.94
+14,14,Midwest,Indiana,RFC,4.15,4.98,4.98,4.5,0,0.13,0,3.01,4.06,474.94
+15,15,Midwest,Iowa,MRO,3.92,4.6,4.6,5.2,0,0.13,0,2.45,3.31,623.37
+16,16,Midwest,Kansas,SPP,3.67,4.53,4.53,4.55,0,0.13,0,2.46,3.32,478.53
+17,17,Midwest,Kentucky,SERC,3.79,4.41,4.41,0,0,0.12,0,5.03,6.79,500.6
+18,18,Gulf Coast,Louisiana,SERC,3.61,4.51,4.51,0,0,0.11,0,2.33,3.15,500.6
+19,19,New England,Maine,NPCC,4.18,5.03,5.03,4.48,0,0.17,0,0,0,279.36
+20,20,Central Atlantic,Maryland,RFC,3.57,4.75,4.75,0,0,0.13,0,2.98,4.02,474.94
+21,21,New England,Massachusetts,NPCC,3.92,5.26,5.26,5.02,0,0.23,0,3.44,4.64,279.36
+22,22,Midwest,Michigan,RFC,4.02,5.01,5.01,4.64,0,0.18,0,0,0,474.94
+23,23,Midwest,Minnesota,MRO,3.84,4.75,4.75,5.32,0,0.14,0,2.16,2.92,623.37
+24,24,Gulf Coast,Mississippi,SERC,4.02,4.72,4.72,0,0,0.12,0,0,0,500.6
+25,25,Midwest,Missouri,SPP,3.59,4.39,4.39,4.65,0,0.11,0,2.36,3.19,478.53
+26,26,Rocky Mountain,Montana,WECC,5.58,5.95,5.95,0,0,0.11,0,0,0,373.61
+27,27,Midwest,Nebraska,SPP,3.89,4.57,4.57,4.5,0,0.11,0,4.16,5.62,478.53
+28,28,West Coast,Nevada,WECC,3.83,4.74,4.74,0,0,0.11,0,0,0,373.61
+29,29,New England,New Hampshire,NPCC,3.92,4.93,4.93,3.84,0,0.2,0,3.63,4.9,279.36
+30,30,Central Atlantic,New Jersey,RFC,3.8,4.79,4.79,3.83,0,0.16,0,2.48,3.35,474.94
+31,31,Gulf Coast,New Mexico,WECC,3.88,4.86,4.86,0,0,0.14,0,2.55,3.44,373.61
+32,32,Central Atlantic,New York,NPCC,3.97,4.69,4.69,5.04,0,0.19,0,2.79,3.77,279.36
+33,33,Lower Atlantic,North Carolina,SERC,3.77,4.78,4.78,4.61,0,0.11,0,2.16,2.92,500.6
+34,34,Midwest,North Dakota,MRO,3.85,4.65,4.65,4.8,0,0.11,0,0,0,623.37
+35,35,Midwest,Ohio,RFC,3.82,4.96,4.96,3.88,0,0.13,0,2.48,3.35,474.94
+36,36,Midwest,Oklahoma,SPP,3.54,4.53,4.53,4.5,0,0.11,0,2.06,2.78,478.53
+37,37,West Coast,Oregon,WECC,3.99,4.95,4.95,5.26,6.18,0.11,0,3.11,4.2,373.61
+38,38,Central Atlantic,Pennsylvania,RFC,3.83,4.75,4.75,0,0,0.14,0,2.85,3.85,474.94
+39,39,New England,Rhode Island,NPCC,3.81,5.01,5.01,4.97,0,0.22,0,0,0,279.36
+40,40,Lower Atlantic,South Carolina,SERC,3.54,4.62,4.62,0,0,0.13,0,1.97,2.66,500.6
+41,41,Midwest,South Dakota,MRO,3.75,4.49,4.49,5.05,0,0.12,0,2.6,3.51,623.37
+42,42,Midwest,Tennessee,SERC,3.59,4.58,4.58,4.12,0,0.11,0,2.28,3.08,500.6
+43,43,Gulf Coast,Texas,TRE,3.39,4.35,4.35,3.58,0,0.12,0,2.7,3.65,447.67
+44,44,Rocky Mountain,Utah,WECC,5.58,5.95,5.95,4.52,0,0.1,0,2.35,3.17,373.61
+45,45,New England,Vermont,NPCC,4.01,5.03,5.03,4.86,0,0.19,0,3.25,4.39,279.36
+46,46,Lower Atlantic,Virginia,SERC,3.7,4.64,4.64,0,0,0.12,0,2.82,3.81,500.6
+47,47,West Coast,Washington,WECC,4.81,5.5,5.5,5.65,6.18,0.1,0,3.47,4.68,373.61
+48,48,Lower Atlantic,West Virginia,RFC,4.7,2.8,2.8,0,0,0.12,0,2.56,3.46,474.94
+49,49,Midwest,Wisconsin,MRO,3.45,4.41,4.41,4.5,0,0.15,0,2.6,3.51,623.37
+50,50,Rocky Mountain,Wyoming,WECC,5.58,5.95,5.95,0,0,0.11,0,3.06,4.13,373.61

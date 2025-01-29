@@ -1,0 +1,15 @@
+PowerLevel,PortConfiguration,Price
+7.7 kW,Single port,3000
+11.5 kW,Single port,3500
+19.2 kW,Single port,5000
+19.2 kW,Dual port,6000
+24 kW,Single port,17700
+24 kW,Dual port,19200
+50 kW,Single port,33200
+50 kW,Dual port,35000
+100 kW,Single port,46000
+100 kW,Dual port,48000
+175 kW,Single port,112000
+175 kW,Dual port,118000
+350 kW,Single port,166000
+350 kW,Dual port,169000

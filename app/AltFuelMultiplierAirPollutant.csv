@@ -1,0 +1,1361 @@
+Fuel,On-Road Application,Torque (lb-ft),Pollutant,Multiplier
+CNG,Combination Long-haul Truck,1225,CO,12.6
+CNG,Combination Long-haul Truck,1225,NOx,0.05
+CNG,Combination Long-haul Truck,1225,PM10,1
+CNG,Combination Long-haul Truck,1225,PM10 (TBW),1
+CNG,Combination Long-haul Truck,1225,PM2.5,1
+CNG,Combination Long-haul Truck,1225,PM2.5 (TBW),1
+CNG,Combination Long-haul Truck,1225,VOC,1
+CNG,Combination Long-haul Truck,1225,VOC (Evap),0
+CNG,Combination Short-haul Truck,1225,CO,12.6
+CNG,Combination Short-haul Truck,1225,NOx,0.05
+CNG,Combination Short-haul Truck,1225,PM10,1
+CNG,Combination Short-haul Truck,1225,PM10 (TBW),1
+CNG,Combination Short-haul Truck,1225,PM2.5,1
+CNG,Combination Short-haul Truck,1225,PM2.5 (TBW),1
+CNG,Combination Short-haul Truck,1225,VOC,1
+CNG,Combination Short-haul Truck,1225,VOC (Evap),0
+CNG,Light Commercial Truck,371,CO,1
+CNG,Light Commercial Truck,371,NOx,1
+CNG,Light Commercial Truck,371,PM10,1
+CNG,Light Commercial Truck,371,PM10 (TBW),1
+CNG,Light Commercial Truck,371,PM2.5,1
+CNG,Light Commercial Truck,371,PM2.5 (TBW),1
+CNG,Light Commercial Truck,371,VOC,1
+CNG,Light Commercial Truck,371,VOC (Evap),0
+CNG,Passenger Car,N/A,CO,1
+CNG,Passenger Car,N/A,NOx,1
+CNG,Passenger Car,N/A,PM10,1
+CNG,Passenger Car,N/A,PM10 (TBW),1
+CNG,Passenger Car,N/A,PM2.5,1
+CNG,Passenger Car,N/A,PM2.5 (TBW),1
+CNG,Passenger Car,N/A,VOC,1
+CNG,Passenger Car,N/A,VOC (Evap),0
+CNG,Passenger Truck,N/A,CO,1
+CNG,Passenger Truck,N/A,NOx,1
+CNG,Passenger Truck,N/A,PM10,1
+CNG,Passenger Truck,N/A,PM10 (TBW),1
+CNG,Passenger Truck,N/A,PM2.5,1
+CNG,Passenger Truck,N/A,PM2.5 (TBW),1
+CNG,Passenger Truck,N/A,VOC,1
+CNG,Passenger Truck,N/A,VOC (Evap),0
+CNG,Refuse Truck,1000,CO,11.4
+CNG,Refuse Truck,1000,NOx,0.05
+CNG,Refuse Truck,1000,PM10,1
+CNG,Refuse Truck,1000,PM10 (TBW),1
+CNG,Refuse Truck,1000,PM2.5,1
+CNG,Refuse Truck,1000,PM2.5 (TBW),1
+CNG,Refuse Truck,1000,VOC,1
+CNG,Refuse Truck,1000,VOC (Evap),0
+CNG,School Bus,1000,CO,23.9
+CNG,School Bus,1000,NOx,0.05
+CNG,School Bus,1000,PM10,1
+CNG,School Bus,1000,PM10 (TBW),1
+CNG,School Bus,1000,PM2.5,1
+CNG,School Bus,1000,PM2.5 (TBW),1
+CNG,School Bus,1000,VOC,1
+CNG,School Bus,1000,VOC (Evap),0
+CNG,Single Unit Long-haul Truck,1000,CO,20.7
+CNG,Single Unit Long-haul Truck,1000,NOx,0.05
+CNG,Single Unit Long-haul Truck,1000,PM10,1
+CNG,Single Unit Long-haul Truck,1000,PM10 (TBW),1
+CNG,Single Unit Long-haul Truck,1000,PM2.5,1
+CNG,Single Unit Long-haul Truck,1000,PM2.5 (TBW),1
+CNG,Single Unit Long-haul Truck,1000,VOC,1
+CNG,Single Unit Long-haul Truck,1000,VOC (Evap),0
+CNG,Single Unit Short-haul Truck,1000,CO,19.5
+CNG,Single Unit Short-haul Truck,1000,NOx,0.05
+CNG,Single Unit Short-haul Truck,1000,PM10,1
+CNG,Single Unit Short-haul Truck,1000,PM10 (TBW),1
+CNG,Single Unit Short-haul Truck,1000,PM2.5,1
+CNG,Single Unit Short-haul Truck,1000,PM2.5 (TBW),1
+CNG,Single Unit Short-haul Truck,1000,VOC,1
+CNG,Single Unit Short-haul Truck,1000,VOC (Evap),0
+CNG,Transit Bus,1000,CO,11.5
+CNG,Transit Bus,1000,NOx,0.05
+CNG,Transit Bus,1000,PM10,1
+CNG,Transit Bus,1000,PM10 (TBW),1
+CNG,Transit Bus,1000,PM2.5,1
+CNG,Transit Bus,1000,PM2.5 (TBW),1
+CNG,Transit Bus,1000,VOC,1
+CNG,Transit Bus,1000,VOC (Evap),0
+LNG,Combination Long-haul Truck,1225,CO,12.6
+LNG,Combination Long-haul Truck,1225,NOx,0.05
+LNG,Combination Long-haul Truck,1225,PM10,1
+LNG,Combination Long-haul Truck,1225,PM10 (TBW),1
+LNG,Combination Long-haul Truck,1225,PM2.5,1
+LNG,Combination Long-haul Truck,1225,PM2.5 (TBW),1
+LNG,Combination Long-haul Truck,1225,VOC,1
+LNG,Combination Long-haul Truck,1225,VOC (Evap),0
+LNG,Combination Short-haul Truck,1225,CO,12.6
+LNG,Combination Short-haul Truck,1225,NOx,0.05
+LNG,Combination Short-haul Truck,1225,PM10,1
+LNG,Combination Short-haul Truck,1225,PM10 (TBW),1
+LNG,Combination Short-haul Truck,1225,PM2.5,1
+LNG,Combination Short-haul Truck,1225,PM2.5 (TBW),1
+LNG,Combination Short-haul Truck,1225,VOC,1
+LNG,Combination Short-haul Truck,1225,VOC (Evap),0
+LNG,Light Commercial Truck,371,CO,1
+LNG,Light Commercial Truck,371,NOx,1
+LNG,Light Commercial Truck,371,PM10,1
+LNG,Light Commercial Truck,371,PM10 (TBW),1
+LNG,Light Commercial Truck,371,PM2.5,1
+LNG,Light Commercial Truck,371,PM2.5 (TBW),1
+LNG,Light Commercial Truck,371,VOC,1
+LNG,Light Commercial Truck,371,VOC (Evap),0
+LNG,Passenger Car,N/A,CO,1
+LNG,Passenger Car,N/A,NOx,1
+LNG,Passenger Car,N/A,PM10,1
+LNG,Passenger Car,N/A,PM10 (TBW),1
+LNG,Passenger Car,N/A,PM2.5,1
+LNG,Passenger Car,N/A,PM2.5 (TBW),1
+LNG,Passenger Car,N/A,VOC,1
+LNG,Passenger Car,N/A,VOC (Evap),0
+LNG,Passenger Truck,N/A,CO,1
+LNG,Passenger Truck,N/A,NOx,1
+LNG,Passenger Truck,N/A,PM10,1
+LNG,Passenger Truck,N/A,PM10 (TBW),1
+LNG,Passenger Truck,N/A,PM2.5,1
+LNG,Passenger Truck,N/A,PM2.5 (TBW),1
+LNG,Passenger Truck,N/A,VOC,1
+LNG,Passenger Truck,N/A,VOC (Evap),0
+LNG,Refuse Truck,1000,CO,11.4
+LNG,Refuse Truck,1000,NOx,0.05
+LNG,Refuse Truck,1000,PM10,1
+LNG,Refuse Truck,1000,PM10 (TBW),1
+LNG,Refuse Truck,1000,PM2.5,1
+LNG,Refuse Truck,1000,PM2.5 (TBW),1
+LNG,Refuse Truck,1000,VOC,1
+LNG,Refuse Truck,1000,VOC (Evap),0
+LNG,School Bus,1000,CO,23.9
+LNG,School Bus,1000,NOx,0.05
+LNG,School Bus,1000,PM10,1
+LNG,School Bus,1000,PM10 (TBW),1
+LNG,School Bus,1000,PM2.5,1
+LNG,School Bus,1000,PM2.5 (TBW),1
+LNG,School Bus,1000,VOC,1
+LNG,School Bus,1000,VOC (Evap),0
+LNG,Single Unit Long-haul Truck,1000,CO,20.7
+LNG,Single Unit Long-haul Truck,1000,NOx,0.05
+LNG,Single Unit Long-haul Truck,1000,PM10,1
+LNG,Single Unit Long-haul Truck,1000,PM10 (TBW),1
+LNG,Single Unit Long-haul Truck,1000,PM2.5,1
+LNG,Single Unit Long-haul Truck,1000,PM2.5 (TBW),1
+LNG,Single Unit Long-haul Truck,1000,VOC,1
+LNG,Single Unit Long-haul Truck,1000,VOC (Evap),0
+LNG,Single Unit Short-haul Truck,1000,CO,19.5
+LNG,Single Unit Short-haul Truck,1000,NOx,0.05
+LNG,Single Unit Short-haul Truck,1000,PM10,1
+LNG,Single Unit Short-haul Truck,1000,PM10 (TBW),1
+LNG,Single Unit Short-haul Truck,1000,PM2.5,1
+LNG,Single Unit Short-haul Truck,1000,PM2.5 (TBW),1
+LNG,Single Unit Short-haul Truck,1000,VOC,1
+LNG,Single Unit Short-haul Truck,1000,VOC (Evap),0
+LNG,Transit Bus,1000,CO,11.5
+LNG,Transit Bus,1000,NOx,0.05
+LNG,Transit Bus,1000,PM10,1
+LNG,Transit Bus,1000,PM10 (TBW),1
+LNG,Transit Bus,1000,PM2.5,1
+LNG,Transit Bus,1000,PM2.5 (TBW),1
+LNG,Transit Bus,1000,VOC,1
+LNG,Transit Bus,1000,VOC (Evap),0
+LNG/D,Combination Long-haul Truck,1750,CO,0.5
+LNG/D,Combination Long-haul Truck,1750,NOx,0.5
+LNG/D,Combination Long-haul Truck,1750,PM10,0.9
+LNG/D,Combination Long-haul Truck,1750,PM10 (TBW),1
+LNG/D,Combination Long-haul Truck,1750,PM2.5,0.9
+LNG/D,Combination Long-haul Truck,1750,PM2.5 (TBW),1
+LNG/D,Combination Long-haul Truck,1750,VOC,1
+LNG/D,Combination Long-haul Truck,1750,VOC (Evap),1
+LNG/D,Combination Short-haul Truck,1750,CO,0.5
+LNG/D,Combination Short-haul Truck,1750,NOx,0.5
+LNG/D,Combination Short-haul Truck,1750,PM10,0.9
+LNG/D,Combination Short-haul Truck,1750,PM10 (TBW),1
+LNG/D,Combination Short-haul Truck,1750,PM2.5,0.9
+LNG/D,Combination Short-haul Truck,1750,PM2.5 (TBW),1
+LNG/D,Combination Short-haul Truck,1750,VOC,1
+LNG/D,Combination Short-haul Truck,1750,VOC (Evap),1
+LNG/D,Light Commercial Truck,No engine,CO,1
+LNG/D,Light Commercial Truck,No engine,NOx,1
+LNG/D,Light Commercial Truck,No engine,PM10,1
+LNG/D,Light Commercial Truck,No engine,PM10 (TBW),1
+LNG/D,Light Commercial Truck,No engine,PM2.5,1
+LNG/D,Light Commercial Truck,No engine,PM2.5 (TBW),1
+LNG/D,Light Commercial Truck,No engine,VOC,1
+LNG/D,Light Commercial Truck,No engine,VOC (Evap),1
+LNG/D,Passenger Car,No engine,CO,1
+LNG/D,Passenger Car,No engine,NOx,1
+LNG/D,Passenger Car,No engine,PM10,1
+LNG/D,Passenger Car,No engine,PM10 (TBW),1
+LNG/D,Passenger Car,No engine,PM2.5,1
+LNG/D,Passenger Car,No engine,PM2.5 (TBW),1
+LNG/D,Passenger Car,No engine,VOC,1
+LNG/D,Passenger Car,No engine,VOC (Evap),1
+LNG/D,Passenger Truck,No engine,CO,1
+LNG/D,Passenger Truck,No engine,NOx,1
+LNG/D,Passenger Truck,No engine,PM10,1
+LNG/D,Passenger Truck,No engine,PM10 (TBW),1
+LNG/D,Passenger Truck,No engine,PM2.5,1
+LNG/D,Passenger Truck,No engine,PM2.5 (TBW),1
+LNG/D,Passenger Truck,No engine,VOC,1
+LNG/D,Passenger Truck,No engine,VOC (Evap),1
+LNG/D,Refuse Truck,1750,CO,0.5
+LNG/D,Refuse Truck,1750,NOx,0.5
+LNG/D,Refuse Truck,1750,PM10,0.9
+LNG/D,Refuse Truck,1750,PM10 (TBW),1
+LNG/D,Refuse Truck,1750,PM2.5,0.9
+LNG/D,Refuse Truck,1750,PM2.5 (TBW),1
+LNG/D,Refuse Truck,1750,VOC,1
+LNG/D,Refuse Truck,1750,VOC (Evap),1
+LNG/D,School Bus,No engine,CO,1
+LNG/D,School Bus,No engine,NOx,1
+LNG/D,School Bus,No engine,PM10,1
+LNG/D,School Bus,No engine,PM10 (TBW),1
+LNG/D,School Bus,No engine,PM2.5,1
+LNG/D,School Bus,No engine,PM2.5 (TBW),1
+LNG/D,School Bus,No engine,VOC,1
+LNG/D,School Bus,No engine,VOC (Evap),1
+LNG/D,Single Unit Long-haul Truck,1750,CO,0.5
+LNG/D,Single Unit Long-haul Truck,1750,NOx,0.5
+LNG/D,Single Unit Long-haul Truck,1750,PM10,0.9
+LNG/D,Single Unit Long-haul Truck,1750,PM10 (TBW),1
+LNG/D,Single Unit Long-haul Truck,1750,PM2.5,0.9
+LNG/D,Single Unit Long-haul Truck,1750,PM2.5 (TBW),1
+LNG/D,Single Unit Long-haul Truck,1750,VOC,1
+LNG/D,Single Unit Long-haul Truck,1750,VOC (Evap),1
+LNG/D,Single Unit Short-haul Truck,1750,CO,0.5
+LNG/D,Single Unit Short-haul Truck,1750,NOx,0.5
+LNG/D,Single Unit Short-haul Truck,1750,PM10,0.9
+LNG/D,Single Unit Short-haul Truck,1750,PM10 (TBW),1
+LNG/D,Single Unit Short-haul Truck,1750,PM2.5,0.9
+LNG/D,Single Unit Short-haul Truck,1750,PM2.5 (TBW),1
+LNG/D,Single Unit Short-haul Truck,1750,VOC,1
+LNG/D,Single Unit Short-haul Truck,1750,VOC (Evap),1
+LNG/D,Transit Bus,1750,CO,0.5
+LNG/D,Transit Bus,1750,NOx,0.5
+LNG/D,Transit Bus,1750,PM10,0.9
+LNG/D,Transit Bus,1750,PM10 (TBW),1
+LNG/D,Transit Bus,1750,PM2.5,0.9
+LNG/D,Transit Bus,1750,PM2.5 (TBW),1
+LNG/D,Transit Bus,1750,VOC,1
+LNG/D,Transit Bus,1750,VOC (Evap),1
+E85,Combination Long-haul Truck,No engine,CO,1
+E85,Combination Long-haul Truck,No engine,NOx,1
+E85,Combination Long-haul Truck,No engine,PM10,1
+E85,Combination Long-haul Truck,No engine,PM10 (TBW),1
+E85,Combination Long-haul Truck,No engine,PM2.5,1
+E85,Combination Long-haul Truck,No engine,PM2.5 (TBW),1
+E85,Combination Long-haul Truck,No engine,VOC,1
+E85,Combination Long-haul Truck,No engine,VOC (Evap),1
+E85,Combination Short-haul Truck,No engine,CO,1
+E85,Combination Short-haul Truck,No engine,NOx,1
+E85,Combination Short-haul Truck,No engine,PM10,1
+E85,Combination Short-haul Truck,No engine,PM10 (TBW),1
+E85,Combination Short-haul Truck,No engine,PM2.5,1
+E85,Combination Short-haul Truck,No engine,PM2.5 (TBW),1
+E85,Combination Short-haul Truck,No engine,VOC,1
+E85,Combination Short-haul Truck,No engine,VOC (Evap),1
+E85,Light Commercial Truck,373,CO,1
+E85,Light Commercial Truck,373,NOx,1
+E85,Light Commercial Truck,373,PM10,1
+E85,Light Commercial Truck,373,PM10 (TBW),1
+E85,Light Commercial Truck,373,PM2.5,1
+E85,Light Commercial Truck,373,PM2.5 (TBW),1
+E85,Light Commercial Truck,373,VOC,1
+E85,Light Commercial Truck,373,VOC (Evap),0.85
+E85,Passenger Car,N/A,CO,1
+E85,Passenger Car,N/A,NOx,1
+E85,Passenger Car,N/A,PM10,1
+E85,Passenger Car,N/A,PM10 (TBW),1
+E85,Passenger Car,N/A,PM2.5,1
+E85,Passenger Car,N/A,PM2.5 (TBW),1
+E85,Passenger Car,N/A,VOC,1
+E85,Passenger Car,N/A,VOC (Evap),0.85
+E85,Passenger Truck,N/A,CO,1
+E85,Passenger Truck,N/A,NOx,1
+E85,Passenger Truck,N/A,PM10,1
+E85,Passenger Truck,N/A,PM10 (TBW),1
+E85,Passenger Truck,N/A,PM2.5,1
+E85,Passenger Truck,N/A,PM2.5 (TBW),1
+E85,Passenger Truck,N/A,VOC,1
+E85,Passenger Truck,N/A,VOC (Evap),0.85
+E85,Refuse Truck,No engine,CO,1
+E85,Refuse Truck,No engine,NOx,1
+E85,Refuse Truck,No engine,PM10,1
+E85,Refuse Truck,No engine,PM10 (TBW),1
+E85,Refuse Truck,No engine,PM2.5,1
+E85,Refuse Truck,No engine,PM2.5 (TBW),1
+E85,Refuse Truck,No engine,VOC,1
+E85,Refuse Truck,No engine,VOC (Evap),1
+E85,School Bus,gasoline,CO,1
+E85,School Bus,gasoline,NOx,1
+E85,School Bus,gasoline,PM10,1
+E85,School Bus,gasoline,PM10 (TBW),1
+E85,School Bus,gasoline,PM2.5,1
+E85,School Bus,gasoline,PM2.5 (TBW),1
+E85,School Bus,gasoline,VOC,1
+E85,School Bus,gasoline,VOC (Evap),1
+E85,Single Unit Long-haul Truck,gasoline,CO,1
+E85,Single Unit Long-haul Truck,gasoline,NOx,1
+E85,Single Unit Long-haul Truck,gasoline,PM10,1
+E85,Single Unit Long-haul Truck,gasoline,PM10 (TBW),1
+E85,Single Unit Long-haul Truck,gasoline,PM2.5,1
+E85,Single Unit Long-haul Truck,gasoline,PM2.5 (TBW),1
+E85,Single Unit Long-haul Truck,gasoline,VOC,1
+E85,Single Unit Long-haul Truck,gasoline,VOC (Evap),1
+E85,Single Unit Short-haul Truck,gasoline,CO,1
+E85,Single Unit Short-haul Truck,gasoline,NOx,1
+E85,Single Unit Short-haul Truck,gasoline,PM10,1
+E85,Single Unit Short-haul Truck,gasoline,PM10 (TBW),1
+E85,Single Unit Short-haul Truck,gasoline,PM2.5,1
+E85,Single Unit Short-haul Truck,gasoline,PM2.5 (TBW),1
+E85,Single Unit Short-haul Truck,gasoline,VOC,1
+E85,Single Unit Short-haul Truck,gasoline,VOC (Evap),1
+E85,Transit Bus,No engine,CO,1
+E85,Transit Bus,No engine,NOx,1
+E85,Transit Bus,No engine,PM10,1
+E85,Transit Bus,No engine,PM10 (TBW),1
+E85,Transit Bus,No engine,PM2.5,1
+E85,Transit Bus,No engine,PM2.5 (TBW),1
+E85,Transit Bus,No engine,VOC,1
+E85,Transit Bus,No engine,VOC (Evap),1
+B20,Combination Long-haul Truck,,CO,1
+B20,Combination Long-haul Truck,,NOx,1
+B20,Combination Long-haul Truck,,PM10,1
+B20,Combination Long-haul Truck,,PM10 (TBW),1
+B20,Combination Long-haul Truck,,PM2.5,1
+B20,Combination Long-haul Truck,,PM2.5 (TBW),1
+B20,Combination Long-haul Truck,,VOC,1
+B20,Combination Long-haul Truck,,VOC (Evap),1
+B20,Combination Short-haul Truck,,CO,1
+B20,Combination Short-haul Truck,,NOx,1
+B20,Combination Short-haul Truck,,PM10,1
+B20,Combination Short-haul Truck,,PM10 (TBW),1
+B20,Combination Short-haul Truck,,PM2.5,1
+B20,Combination Short-haul Truck,,PM2.5 (TBW),1
+B20,Combination Short-haul Truck,,VOC,1
+B20,Combination Short-haul Truck,,VOC (Evap),1
+B20,Light Commercial Truck,,CO,1
+B20,Light Commercial Truck,,NOx,1
+B20,Light Commercial Truck,,PM10,1
+B20,Light Commercial Truck,,PM10 (TBW),1
+B20,Light Commercial Truck,,PM2.5,1
+B20,Light Commercial Truck,,PM2.5 (TBW),1
+B20,Light Commercial Truck,,VOC,1
+B20,Light Commercial Truck,,VOC (Evap),1
+B20,Passenger Car,N/A,CO,1
+B20,Passenger Car,N/A,NOx,1
+B20,Passenger Car,N/A,PM10,1
+B20,Passenger Car,N/A,PM10 (TBW),1
+B20,Passenger Car,N/A,PM2.5,1
+B20,Passenger Car,N/A,PM2.5 (TBW),1
+B20,Passenger Car,N/A,VOC,1
+B20,Passenger Car,N/A,VOC (Evap),1
+B20,Passenger Truck,N/A,CO,1
+B20,Passenger Truck,N/A,NOx,1
+B20,Passenger Truck,N/A,PM10,1
+B20,Passenger Truck,N/A,PM10 (TBW),1
+B20,Passenger Truck,N/A,PM2.5,1
+B20,Passenger Truck,N/A,PM2.5 (TBW),1
+B20,Passenger Truck,N/A,VOC,1
+B20,Passenger Truck,N/A,VOC (Evap),1
+B20,Refuse Truck,,CO,1
+B20,Refuse Truck,,NOx,1
+B20,Refuse Truck,,PM10,1
+B20,Refuse Truck,,PM10 (TBW),1
+B20,Refuse Truck,,PM2.5,1
+B20,Refuse Truck,,PM2.5 (TBW),1
+B20,Refuse Truck,,VOC,1
+B20,Refuse Truck,,VOC (Evap),1
+B20,School Bus,,CO,1
+B20,School Bus,,NOx,1
+B20,School Bus,,PM10,1
+B20,School Bus,,PM10 (TBW),1
+B20,School Bus,,PM2.5,1
+B20,School Bus,,PM2.5 (TBW),1
+B20,School Bus,,VOC,1
+B20,School Bus,,VOC (Evap),1
+B20,Single Unit Long-haul Truck,,CO,1
+B20,Single Unit Long-haul Truck,,NOx,1
+B20,Single Unit Long-haul Truck,,PM10,1
+B20,Single Unit Long-haul Truck,,PM10 (TBW),1
+B20,Single Unit Long-haul Truck,,PM2.5,1
+B20,Single Unit Long-haul Truck,,PM2.5 (TBW),1
+B20,Single Unit Long-haul Truck,,VOC,1
+B20,Single Unit Long-haul Truck,,VOC (Evap),1
+B20,Single Unit Short-haul Truck,,CO,1
+B20,Single Unit Short-haul Truck,,NOx,1
+B20,Single Unit Short-haul Truck,,PM10,1
+B20,Single Unit Short-haul Truck,,PM10 (TBW),1
+B20,Single Unit Short-haul Truck,,PM2.5,1
+B20,Single Unit Short-haul Truck,,PM2.5 (TBW),1
+B20,Single Unit Short-haul Truck,,VOC,1
+B20,Single Unit Short-haul Truck,,VOC (Evap),1
+B20,Transit Bus,,CO,1
+B20,Transit Bus,,NOx,1
+B20,Transit Bus,,PM10,1
+B20,Transit Bus,,PM10 (TBW),1
+B20,Transit Bus,,PM2.5,1
+B20,Transit Bus,,PM2.5 (TBW),1
+B20,Transit Bus,,VOC,1
+B20,Transit Bus,,VOC (Evap),1
+B100,Combination Long-haul Truck,,CO,1
+B100,Combination Long-haul Truck,,NOx,1
+B100,Combination Long-haul Truck,,PM10,1
+B100,Combination Long-haul Truck,,PM10 (TBW),1
+B100,Combination Long-haul Truck,,PM2.5,1
+B100,Combination Long-haul Truck,,PM2.5 (TBW),1
+B100,Combination Long-haul Truck,,VOC,1
+B100,Combination Long-haul Truck,,VOC (Evap),1
+B100,Combination Short-haul Truck,,CO,1
+B100,Combination Short-haul Truck,,NOx,1
+B100,Combination Short-haul Truck,,PM10,1
+B100,Combination Short-haul Truck,,PM10 (TBW),1
+B100,Combination Short-haul Truck,,PM2.5,1
+B100,Combination Short-haul Truck,,PM2.5 (TBW),1
+B100,Combination Short-haul Truck,,VOC,1
+B100,Combination Short-haul Truck,,VOC (Evap),1
+B100,Light Commercial Truck,,CO,1
+B100,Light Commercial Truck,,NOx,1
+B100,Light Commercial Truck,,PM10,1
+B100,Light Commercial Truck,,PM10 (TBW),1
+B100,Light Commercial Truck,,PM2.5,1
+B100,Light Commercial Truck,,PM2.5 (TBW),1
+B100,Light Commercial Truck,,VOC,1
+B100,Light Commercial Truck,,VOC (Evap),1
+B100,Passenger Car,N/A,CO,1
+B100,Passenger Car,N/A,NOx,1
+B100,Passenger Car,N/A,PM10,1
+B100,Passenger Car,N/A,PM10 (TBW),1
+B100,Passenger Car,N/A,PM2.5,1
+B100,Passenger Car,N/A,PM2.5 (TBW),1
+B100,Passenger Car,N/A,VOC,1
+B100,Passenger Car,N/A,VOC (Evap),1
+B100,Passenger Truck,N/A,CO,1
+B100,Passenger Truck,N/A,NOx,1
+B100,Passenger Truck,N/A,PM10,1
+B100,Passenger Truck,N/A,PM10 (TBW),1
+B100,Passenger Truck,N/A,PM2.5,1
+B100,Passenger Truck,N/A,PM2.5 (TBW),1
+B100,Passenger Truck,N/A,VOC,1
+B100,Passenger Truck,N/A,VOC (Evap),1
+B100,Refuse Truck,,CO,1
+B100,Refuse Truck,,NOx,1
+B100,Refuse Truck,,PM10,1
+B100,Refuse Truck,,PM10 (TBW),1
+B100,Refuse Truck,,PM2.5,1
+B100,Refuse Truck,,PM2.5 (TBW),1
+B100,Refuse Truck,,VOC,1
+B100,Refuse Truck,,VOC (Evap),1
+B100,School Bus,,CO,1
+B100,School Bus,,NOx,1
+B100,School Bus,,PM10,1
+B100,School Bus,,PM10 (TBW),1
+B100,School Bus,,PM2.5,1
+B100,School Bus,,PM2.5 (TBW),1
+B100,School Bus,,VOC,1
+B100,School Bus,,VOC (Evap),1
+B100,Single Unit Long-haul Truck,,CO,1
+B100,Single Unit Long-haul Truck,,NOx,1
+B100,Single Unit Long-haul Truck,,PM10,1
+B100,Single Unit Long-haul Truck,,PM10 (TBW),1
+B100,Single Unit Long-haul Truck,,PM2.5,1
+B100,Single Unit Long-haul Truck,,PM2.5 (TBW),1
+B100,Single Unit Long-haul Truck,,VOC,1
+B100,Single Unit Long-haul Truck,,VOC (Evap),1
+B100,Single Unit Short-haul Truck,,CO,1
+B100,Single Unit Short-haul Truck,,NOx,1
+B100,Single Unit Short-haul Truck,,PM10,1
+B100,Single Unit Short-haul Truck,,PM10 (TBW),1
+B100,Single Unit Short-haul Truck,,PM2.5,1
+B100,Single Unit Short-haul Truck,,PM2.5 (TBW),1
+B100,Single Unit Short-haul Truck,,VOC,1
+B100,Single Unit Short-haul Truck,,VOC (Evap),1
+B100,Transit Bus,,CO,1
+B100,Transit Bus,,NOx,1
+B100,Transit Bus,,PM10,1
+B100,Transit Bus,,PM10 (TBW),1
+B100,Transit Bus,,PM2.5,1
+B100,Transit Bus,,PM2.5 (TBW),1
+B100,Transit Bus,,VOC,1
+B100,Transit Bus,,VOC (Evap),1
+RD20,Combination Long-haul Truck,,CO,1
+RD20,Combination Long-haul Truck,,NOx,1
+RD20,Combination Long-haul Truck,,PM10,1
+RD20,Combination Long-haul Truck,,PM10 (TBW),1
+RD20,Combination Long-haul Truck,,PM2.5,1
+RD20,Combination Long-haul Truck,,PM2.5 (TBW),1
+RD20,Combination Long-haul Truck,,VOC,1
+RD20,Combination Long-haul Truck,,VOC (Evap),1
+RD20,Combination Short-haul Truck,,CO,1
+RD20,Combination Short-haul Truck,,NOx,1
+RD20,Combination Short-haul Truck,,PM10,1
+RD20,Combination Short-haul Truck,,PM10 (TBW),1
+RD20,Combination Short-haul Truck,,PM2.5,1
+RD20,Combination Short-haul Truck,,PM2.5 (TBW),1
+RD20,Combination Short-haul Truck,,VOC,1
+RD20,Combination Short-haul Truck,,VOC (Evap),1
+RD20,Light Commercial Truck,,CO,1
+RD20,Light Commercial Truck,,NOx,1
+RD20,Light Commercial Truck,,PM10,1
+RD20,Light Commercial Truck,,PM10 (TBW),1
+RD20,Light Commercial Truck,,PM2.5,1
+RD20,Light Commercial Truck,,PM2.5 (TBW),1
+RD20,Light Commercial Truck,,VOC,1
+RD20,Light Commercial Truck,,VOC (Evap),1
+RD20,Passenger Car,N/A,CO,1
+RD20,Passenger Car,N/A,NOx,1
+RD20,Passenger Car,N/A,PM10,1
+RD20,Passenger Car,N/A,PM10 (TBW),1
+RD20,Passenger Car,N/A,PM2.5,1
+RD20,Passenger Car,N/A,PM2.5 (TBW),1
+RD20,Passenger Car,N/A,VOC,1
+RD20,Passenger Car,N/A,VOC (Evap),1
+RD20,Passenger Truck,N/A,CO,1
+RD20,Passenger Truck,N/A,NOx,1
+RD20,Passenger Truck,N/A,PM10,1
+RD20,Passenger Truck,N/A,PM10 (TBW),1
+RD20,Passenger Truck,N/A,PM2.5,1
+RD20,Passenger Truck,N/A,PM2.5 (TBW),1
+RD20,Passenger Truck,N/A,VOC,1
+RD20,Passenger Truck,N/A,VOC (Evap),1
+RD20,Refuse Truck,,CO,1
+RD20,Refuse Truck,,NOx,1
+RD20,Refuse Truck,,PM10,1
+RD20,Refuse Truck,,PM10 (TBW),1
+RD20,Refuse Truck,,PM2.5,1
+RD20,Refuse Truck,,PM2.5 (TBW),1
+RD20,Refuse Truck,,VOC,1
+RD20,Refuse Truck,,VOC (Evap),1
+RD20,School Bus,,CO,1
+RD20,School Bus,,NOx,1
+RD20,School Bus,,PM10,1
+RD20,School Bus,,PM10 (TBW),1
+RD20,School Bus,,PM2.5,1
+RD20,School Bus,,PM2.5 (TBW),1
+RD20,School Bus,,VOC,1
+RD20,School Bus,,VOC (Evap),1
+RD20,Single Unit Long-haul Truck,,CO,1
+RD20,Single Unit Long-haul Truck,,NOx,1
+RD20,Single Unit Long-haul Truck,,PM10,1
+RD20,Single Unit Long-haul Truck,,PM10 (TBW),1
+RD20,Single Unit Long-haul Truck,,PM2.5,1
+RD20,Single Unit Long-haul Truck,,PM2.5 (TBW),1
+RD20,Single Unit Long-haul Truck,,VOC,1
+RD20,Single Unit Long-haul Truck,,VOC (Evap),1
+RD20,Single Unit Short-haul Truck,,CO,1
+RD20,Single Unit Short-haul Truck,,NOx,1
+RD20,Single Unit Short-haul Truck,,PM10,1
+RD20,Single Unit Short-haul Truck,,PM10 (TBW),1
+RD20,Single Unit Short-haul Truck,,PM2.5,1
+RD20,Single Unit Short-haul Truck,,PM2.5 (TBW),1
+RD20,Single Unit Short-haul Truck,,VOC,1
+RD20,Single Unit Short-haul Truck,,VOC (Evap),1
+RD20,Transit Bus,,CO,1
+RD20,Transit Bus,,NOx,1
+RD20,Transit Bus,,PM10,1
+RD20,Transit Bus,,PM10 (TBW),1
+RD20,Transit Bus,,PM2.5,1
+RD20,Transit Bus,,PM2.5 (TBW),1
+RD20,Transit Bus,,VOC,1
+RD20,Transit Bus,,VOC (Evap),1
+RD100,Combination Long-haul Truck,,CO,1
+RD100,Combination Long-haul Truck,,NOx,1
+RD100,Combination Long-haul Truck,,PM10,1
+RD100,Combination Long-haul Truck,,PM10 (TBW),1
+RD100,Combination Long-haul Truck,,PM2.5,1
+RD100,Combination Long-haul Truck,,PM2.5 (TBW),1
+RD100,Combination Long-haul Truck,,VOC,1
+RD100,Combination Long-haul Truck,,VOC (Evap),1
+RD100,Combination Short-haul Truck,,CO,1
+RD100,Combination Short-haul Truck,,NOx,1
+RD100,Combination Short-haul Truck,,PM10,1
+RD100,Combination Short-haul Truck,,PM10 (TBW),1
+RD100,Combination Short-haul Truck,,PM2.5,1
+RD100,Combination Short-haul Truck,,PM2.5 (TBW),1
+RD100,Combination Short-haul Truck,,VOC,1
+RD100,Combination Short-haul Truck,,VOC (Evap),1
+RD100,Light Commercial Truck,,CO,1
+RD100,Light Commercial Truck,,NOx,1
+RD100,Light Commercial Truck,,PM10,1
+RD100,Light Commercial Truck,,PM10 (TBW),1
+RD100,Light Commercial Truck,,PM2.5,1
+RD100,Light Commercial Truck,,PM2.5 (TBW),1
+RD100,Light Commercial Truck,,VOC,1
+RD100,Light Commercial Truck,,VOC (Evap),1
+RD100,Passenger Car,N/A,CO,1
+RD100,Passenger Car,N/A,NOx,1
+RD100,Passenger Car,N/A,PM10,1
+RD100,Passenger Car,N/A,PM10 (TBW),1
+RD100,Passenger Car,N/A,PM2.5,1
+RD100,Passenger Car,N/A,PM2.5 (TBW),1
+RD100,Passenger Car,N/A,VOC,1
+RD100,Passenger Car,N/A,VOC (Evap),1
+RD100,Passenger Truck,N/A,CO,1
+RD100,Passenger Truck,N/A,NOx,1
+RD100,Passenger Truck,N/A,PM10,1
+RD100,Passenger Truck,N/A,PM10 (TBW),1
+RD100,Passenger Truck,N/A,PM2.5,1
+RD100,Passenger Truck,N/A,PM2.5 (TBW),1
+RD100,Passenger Truck,N/A,VOC,1
+RD100,Passenger Truck,N/A,VOC (Evap),1
+RD100,Refuse Truck,,CO,1
+RD100,Refuse Truck,,NOx,1
+RD100,Refuse Truck,,PM10,1
+RD100,Refuse Truck,,PM10 (TBW),1
+RD100,Refuse Truck,,PM2.5,1
+RD100,Refuse Truck,,PM2.5 (TBW),1
+RD100,Refuse Truck,,VOC,1
+RD100,Refuse Truck,,VOC (Evap),1
+RD100,School Bus,,CO,1
+RD100,School Bus,,NOx,1
+RD100,School Bus,,PM10,1
+RD100,School Bus,,PM10 (TBW),1
+RD100,School Bus,,PM2.5,1
+RD100,School Bus,,PM2.5 (TBW),1
+RD100,School Bus,,VOC,1
+RD100,School Bus,,VOC (Evap),1
+RD100,Single Unit Long-haul Truck,,CO,1
+RD100,Single Unit Long-haul Truck,,NOx,1
+RD100,Single Unit Long-haul Truck,,PM10,1
+RD100,Single Unit Long-haul Truck,,PM10 (TBW),1
+RD100,Single Unit Long-haul Truck,,PM2.5,1
+RD100,Single Unit Long-haul Truck,,PM2.5 (TBW),1
+RD100,Single Unit Long-haul Truck,,VOC,1
+RD100,Single Unit Long-haul Truck,,VOC (Evap),1
+RD100,Single Unit Short-haul Truck,,CO,1
+RD100,Single Unit Short-haul Truck,,NOx,1
+RD100,Single Unit Short-haul Truck,,PM10,1
+RD100,Single Unit Short-haul Truck,,PM10 (TBW),1
+RD100,Single Unit Short-haul Truck,,PM2.5,1
+RD100,Single Unit Short-haul Truck,,PM2.5 (TBW),1
+RD100,Single Unit Short-haul Truck,,VOC,1
+RD100,Single Unit Short-haul Truck,,VOC (Evap),1
+RD100,Transit Bus,,CO,1
+RD100,Transit Bus,,NOx,1
+RD100,Transit Bus,,PM10,1
+RD100,Transit Bus,,PM10 (TBW),1
+RD100,Transit Bus,,PM2.5,1
+RD100,Transit Bus,,PM2.5 (TBW),1
+RD100,Transit Bus,,VOC,1
+RD100,Transit Bus,,VOC (Evap),1
+HEV,Combination Long-haul Truck,Diesel,CO,0.5
+HEV,Combination Long-haul Truck,Diesel,NOx,1
+HEV,Combination Long-haul Truck,Diesel,PM10,1
+HEV,Combination Long-haul Truck,Diesel,PM10 (TBW),1
+HEV,Combination Long-haul Truck,Diesel,PM2.5,1
+HEV,Combination Long-haul Truck,Diesel,PM2.5 (TBW),1
+HEV,Combination Long-haul Truck,Diesel,VOC,1
+HEV,Combination Long-haul Truck,Diesel,VOC (Evap),1
+HEV,Combination Short-haul Truck,Diesel,CO,0.5
+HEV,Combination Short-haul Truck,Diesel,NOx,1
+HEV,Combination Short-haul Truck,Diesel,PM10,1
+HEV,Combination Short-haul Truck,Diesel,PM10 (TBW),1
+HEV,Combination Short-haul Truck,Diesel,PM2.5,1
+HEV,Combination Short-haul Truck,Diesel,PM2.5 (TBW),1
+HEV,Combination Short-haul Truck,Diesel,VOC,1
+HEV,Combination Short-haul Truck,Diesel,VOC (Evap),1
+HEV,Light Commercial Truck,Gasoline,CO,1
+HEV,Light Commercial Truck,Gasoline,NOx,0.84
+HEV,Light Commercial Truck,Gasoline,PM10,1
+HEV,Light Commercial Truck,Gasoline,PM10 (TBW),1
+HEV,Light Commercial Truck,Gasoline,PM2.5,1
+HEV,Light Commercial Truck,Gasoline,PM2.5 (TBW),1
+HEV,Light Commercial Truck,Gasoline,VOC,0.54
+HEV,Light Commercial Truck,Gasoline,VOC (Evap),1
+HEV,Passenger Car,Gasoline,CO,1
+HEV,Passenger Car,Gasoline,NOx,0.84
+HEV,Passenger Car,Gasoline,PM10,1
+HEV,Passenger Car,Gasoline,PM10 (TBW),1
+HEV,Passenger Car,Gasoline,PM2.5,1
+HEV,Passenger Car,Gasoline,PM2.5 (TBW),1
+HEV,Passenger Car,Gasoline,VOC,0.54
+HEV,Passenger Car,Gasoline,VOC (Evap),1
+HEV,Passenger Truck,Gasoline,CO,1
+HEV,Passenger Truck,Gasoline,NOx,0.84
+HEV,Passenger Truck,Gasoline,PM10,1
+HEV,Passenger Truck,Gasoline,PM10 (TBW),1
+HEV,Passenger Truck,Gasoline,PM2.5,1
+HEV,Passenger Truck,Gasoline,PM2.5 (TBW),1
+HEV,Passenger Truck,Gasoline,VOC,0.54
+HEV,Passenger Truck,Gasoline,VOC (Evap),1
+HEV,Refuse Truck,Diesel,CO,0.5
+HEV,Refuse Truck,Diesel,NOx,1
+HEV,Refuse Truck,Diesel,PM10,1
+HEV,Refuse Truck,Diesel,PM10 (TBW),1
+HEV,Refuse Truck,Diesel,PM2.5,1
+HEV,Refuse Truck,Diesel,PM2.5 (TBW),1
+HEV,Refuse Truck,Diesel,VOC,1
+HEV,Refuse Truck,Diesel,VOC (Evap),1
+HEV,School Bus,Diesel,CO,0.5
+HEV,School Bus,Diesel,NOx,1
+HEV,School Bus,Diesel,PM10,1
+HEV,School Bus,Diesel,PM10 (TBW),1
+HEV,School Bus,Diesel,PM2.5,1
+HEV,School Bus,Diesel,PM2.5 (TBW),1
+HEV,School Bus,Diesel,VOC,1
+HEV,School Bus,Diesel,VOC (Evap),1
+HEV,Single Unit Long-haul Truck,Diesel,CO,0.5
+HEV,Single Unit Long-haul Truck,Diesel,NOx,1
+HEV,Single Unit Long-haul Truck,Diesel,PM10,1
+HEV,Single Unit Long-haul Truck,Diesel,PM10 (TBW),1
+HEV,Single Unit Long-haul Truck,Diesel,PM2.5,1
+HEV,Single Unit Long-haul Truck,Diesel,PM2.5 (TBW),1
+HEV,Single Unit Long-haul Truck,Diesel,VOC,1
+HEV,Single Unit Long-haul Truck,Diesel,VOC (Evap),1
+HEV,Single Unit Short-haul Truck,Diesel,CO,0.5
+HEV,Single Unit Short-haul Truck,Diesel,NOx,1
+HEV,Single Unit Short-haul Truck,Diesel,PM10,1
+HEV,Single Unit Short-haul Truck,Diesel,PM10 (TBW),1
+HEV,Single Unit Short-haul Truck,Diesel,PM2.5,1
+HEV,Single Unit Short-haul Truck,Diesel,PM2.5 (TBW),1
+HEV,Single Unit Short-haul Truck,Diesel,VOC,1
+HEV,Single Unit Short-haul Truck,Diesel,VOC (Evap),1
+HEV,Transit Bus,Diesel,CO,0.5
+HEV,Transit Bus,Diesel,NOx,1
+HEV,Transit Bus,Diesel,PM10,1
+HEV,Transit Bus,Diesel,PM10 (TBW),1
+HEV,Transit Bus,Diesel,PM2.5,1
+HEV,Transit Bus,Diesel,PM2.5 (TBW),1
+HEV,Transit Bus,Diesel,VOC,1
+HEV,Transit Bus,Diesel,VOC (Evap),1
+HHV,Combination Long-haul Truck,Diesel,CO,0.5
+HHV,Combination Long-haul Truck,Diesel,NOx,1
+HHV,Combination Long-haul Truck,Diesel,PM10,1
+HHV,Combination Long-haul Truck,Diesel,PM10 (TBW),1
+HHV,Combination Long-haul Truck,Diesel,PM2.5,1
+HHV,Combination Long-haul Truck,Diesel,PM2.5 (TBW),1
+HHV,Combination Long-haul Truck,Diesel,VOC,1
+HHV,Combination Long-haul Truck,Diesel,VOC (Evap),1
+HHV,Combination Short-haul Truck,Diesel,CO,0.5
+HHV,Combination Short-haul Truck,Diesel,NOx,1
+HHV,Combination Short-haul Truck,Diesel,PM10,1
+HHV,Combination Short-haul Truck,Diesel,PM10 (TBW),1
+HHV,Combination Short-haul Truck,Diesel,PM2.5,1
+HHV,Combination Short-haul Truck,Diesel,PM2.5 (TBW),1
+HHV,Combination Short-haul Truck,Diesel,VOC,1
+HHV,Combination Short-haul Truck,Diesel,VOC (Evap),1
+HHV,Light Commercial Truck,No engine,CO,1
+HHV,Light Commercial Truck,No engine,NOx,1
+HHV,Light Commercial Truck,No engine,PM10,1
+HHV,Light Commercial Truck,No engine,PM10 (TBW),1
+HHV,Light Commercial Truck,No engine,PM2.5,1
+HHV,Light Commercial Truck,No engine,PM2.5 (TBW),1
+HHV,Light Commercial Truck,No engine,VOC,1
+HHV,Light Commercial Truck,No engine,VOC (Evap),1
+HHV,Passenger Car,No engine,CO,1
+HHV,Passenger Car,No engine,NOx,1
+HHV,Passenger Car,No engine,PM10,1
+HHV,Passenger Car,No engine,PM10 (TBW),1
+HHV,Passenger Car,No engine,PM2.5,1
+HHV,Passenger Car,No engine,PM2.5 (TBW),1
+HHV,Passenger Car,No engine,VOC,1
+HHV,Passenger Car,No engine,VOC (Evap),1
+HHV,Passenger Truck,No engine,CO,1
+HHV,Passenger Truck,No engine,NOx,1
+HHV,Passenger Truck,No engine,PM10,1
+HHV,Passenger Truck,No engine,PM10 (TBW),1
+HHV,Passenger Truck,No engine,PM2.5,1
+HHV,Passenger Truck,No engine,PM2.5 (TBW),1
+HHV,Passenger Truck,No engine,VOC,1
+HHV,Passenger Truck,No engine,VOC (Evap),1
+HHV,Refuse Truck,Diesel,CO,0.5
+HHV,Refuse Truck,Diesel,NOx,1
+HHV,Refuse Truck,Diesel,PM10,1
+HHV,Refuse Truck,Diesel,PM10 (TBW),1
+HHV,Refuse Truck,Diesel,PM2.5,1
+HHV,Refuse Truck,Diesel,PM2.5 (TBW),1
+HHV,Refuse Truck,Diesel,VOC,1
+HHV,Refuse Truck,Diesel,VOC (Evap),1
+HHV,School Bus,Diesel,CO,0.5
+HHV,School Bus,Diesel,NOx,1
+HHV,School Bus,Diesel,PM10,1
+HHV,School Bus,Diesel,PM10 (TBW),1
+HHV,School Bus,Diesel,PM2.5,1
+HHV,School Bus,Diesel,PM2.5 (TBW),1
+HHV,School Bus,Diesel,VOC,1
+HHV,School Bus,Diesel,VOC (Evap),1
+HHV,Single Unit Long-haul Truck,Diesel,CO,0.5
+HHV,Single Unit Long-haul Truck,Diesel,NOx,1
+HHV,Single Unit Long-haul Truck,Diesel,PM10,1
+HHV,Single Unit Long-haul Truck,Diesel,PM10 (TBW),1
+HHV,Single Unit Long-haul Truck,Diesel,PM2.5,1
+HHV,Single Unit Long-haul Truck,Diesel,PM2.5 (TBW),1
+HHV,Single Unit Long-haul Truck,Diesel,VOC,1
+HHV,Single Unit Long-haul Truck,Diesel,VOC (Evap),1
+HHV,Single Unit Short-haul Truck,Diesel,CO,0.5
+HHV,Single Unit Short-haul Truck,Diesel,NOx,1
+HHV,Single Unit Short-haul Truck,Diesel,PM10,1
+HHV,Single Unit Short-haul Truck,Diesel,PM10 (TBW),1
+HHV,Single Unit Short-haul Truck,Diesel,PM2.5,1
+HHV,Single Unit Short-haul Truck,Diesel,PM2.5 (TBW),1
+HHV,Single Unit Short-haul Truck,Diesel,VOC,1
+HHV,Single Unit Short-haul Truck,Diesel,VOC (Evap),1
+HHV,Transit Bus,Diesel,CO,0.5
+HHV,Transit Bus,Diesel,NOx,1
+HHV,Transit Bus,Diesel,PM10,1
+HHV,Transit Bus,Diesel,PM10 (TBW),1
+HHV,Transit Bus,Diesel,PM2.5,1
+HHV,Transit Bus,Diesel,PM2.5 (TBW),1
+HHV,Transit Bus,Diesel,VOC,1
+HHV,Transit Bus,Diesel,VOC (Evap),1
+LPG,Combination Long-haul Truck,No engine,CO,1
+LPG,Combination Long-haul Truck,No engine,NOx,1
+LPG,Combination Long-haul Truck,No engine,PM10,1
+LPG,Combination Long-haul Truck,No engine,PM10 (TBW),1
+LPG,Combination Long-haul Truck,No engine,PM2.5,1
+LPG,Combination Long-haul Truck,No engine,PM2.5 (TBW),1
+LPG,Combination Long-haul Truck,No engine,VOC,1
+LPG,Combination Long-haul Truck,No engine,VOC (Evap),0
+LPG,Combination Short-haul Truck,No engine,CO,1
+LPG,Combination Short-haul Truck,No engine,NOx,1
+LPG,Combination Short-haul Truck,No engine,PM10,1
+LPG,Combination Short-haul Truck,No engine,PM10 (TBW),1
+LPG,Combination Short-haul Truck,No engine,PM2.5,1
+LPG,Combination Short-haul Truck,No engine,PM2.5 (TBW),1
+LPG,Combination Short-haul Truck,No engine,VOC,1
+LPG,Combination Short-haul Truck,No engine,VOC (Evap),0
+LPG,Light Commercial Truck,gasoline,CO,1
+LPG,Light Commercial Truck,gasoline,NOx,1
+LPG,Light Commercial Truck,gasoline,PM10,1
+LPG,Light Commercial Truck,gasoline,PM10 (TBW),1
+LPG,Light Commercial Truck,gasoline,PM2.5,1
+LPG,Light Commercial Truck,gasoline,PM2.5 (TBW),1
+LPG,Light Commercial Truck,gasoline,VOC,1
+LPG,Light Commercial Truck,gasoline,VOC (Evap),0
+LPG,Passenger Car,gasoline,CO,1
+LPG,Passenger Car,gasoline,NOx,1
+LPG,Passenger Car,gasoline,PM10,1
+LPG,Passenger Car,gasoline,PM10 (TBW),1
+LPG,Passenger Car,gasoline,PM2.5,1
+LPG,Passenger Car,gasoline,PM2.5 (TBW),1
+LPG,Passenger Car,gasoline,VOC,1
+LPG,Passenger Car,gasoline,VOC (Evap),0
+LPG,Passenger Truck,gasoline,CO,1
+LPG,Passenger Truck,gasoline,NOx,1
+LPG,Passenger Truck,gasoline,PM10,1
+LPG,Passenger Truck,gasoline,PM10 (TBW),1
+LPG,Passenger Truck,gasoline,PM2.5,1
+LPG,Passenger Truck,gasoline,PM2.5 (TBW),1
+LPG,Passenger Truck,gasoline,VOC,1
+LPG,Passenger Truck,gasoline,VOC (Evap),0
+LPG,Refuse Truck,No engine,CO,1
+LPG,Refuse Truck,No engine,NOx,1
+LPG,Refuse Truck,No engine,PM10,1
+LPG,Refuse Truck,No engine,PM10 (TBW),1
+LPG,Refuse Truck,No engine,PM2.5,1
+LPG,Refuse Truck,No engine,PM2.5 (TBW),1
+LPG,Refuse Truck,No engine,VOC,1
+LPG,Refuse Truck,No engine,VOC (Evap),0
+LPG,School Bus,gasoline,CO,1
+LPG,School Bus,gasoline,NOx,0.4
+LPG,School Bus,gasoline,PM10,1
+LPG,School Bus,gasoline,PM10 (TBW),1
+LPG,School Bus,gasoline,PM2.5,1
+LPG,School Bus,gasoline,PM2.5 (TBW),1
+LPG,School Bus,gasoline,VOC,1
+LPG,School Bus,gasoline,VOC (Evap),0
+LPG,Single Unit Long-haul Truck,gasoline,CO,1
+LPG,Single Unit Long-haul Truck,gasoline,NOx,0.4
+LPG,Single Unit Long-haul Truck,gasoline,PM10,1
+LPG,Single Unit Long-haul Truck,gasoline,PM10 (TBW),1
+LPG,Single Unit Long-haul Truck,gasoline,PM2.5,1
+LPG,Single Unit Long-haul Truck,gasoline,PM2.5 (TBW),1
+LPG,Single Unit Long-haul Truck,gasoline,VOC,1
+LPG,Single Unit Long-haul Truck,gasoline,VOC (Evap),0
+LPG,Single Unit Short-haul Truck,gasoline,CO,1
+LPG,Single Unit Short-haul Truck,gasoline,NOx,0.4
+LPG,Single Unit Short-haul Truck,gasoline,PM10,1
+LPG,Single Unit Short-haul Truck,gasoline,PM10 (TBW),1
+LPG,Single Unit Short-haul Truck,gasoline,PM2.5,1
+LPG,Single Unit Short-haul Truck,gasoline,PM2.5 (TBW),1
+LPG,Single Unit Short-haul Truck,gasoline,VOC,1
+LPG,Single Unit Short-haul Truck,gasoline,VOC (Evap),0
+LPG,Transit Bus,No engine,CO,1
+LPG,Transit Bus,No engine,NOx,1
+LPG,Transit Bus,No engine,PM10,1
+LPG,Transit Bus,No engine,PM10 (TBW),1
+LPG,Transit Bus,No engine,PM2.5,1
+LPG,Transit Bus,No engine,PM2.5 (TBW),1
+LPG,Transit Bus,No engine,VOC,1
+LPG,Transit Bus,No engine,VOC (Evap),0
+Gasoline,Combination Long-haul Truck,,CO,1
+Gasoline,Combination Long-haul Truck,,NOx,1
+Gasoline,Combination Long-haul Truck,,PM10,1
+Gasoline,Combination Long-haul Truck,,PM10 (TBW),1
+Gasoline,Combination Long-haul Truck,,PM2.5,1
+Gasoline,Combination Long-haul Truck,,PM2.5 (TBW),1
+Gasoline,Combination Long-haul Truck,,VOC,1
+Gasoline,Combination Long-haul Truck,,VOC (Evap),1
+Gasoline,Combination Short-haul Truck,,CO,1
+Gasoline,Combination Short-haul Truck,,NOx,1
+Gasoline,Combination Short-haul Truck,,PM10,1
+Gasoline,Combination Short-haul Truck,,PM10 (TBW),1
+Gasoline,Combination Short-haul Truck,,PM2.5,1
+Gasoline,Combination Short-haul Truck,,PM2.5 (TBW),1
+Gasoline,Combination Short-haul Truck,,VOC,1
+Gasoline,Combination Short-haul Truck,,VOC (Evap),1
+Gasoline,Light Commercial Truck,,CO,1
+Gasoline,Light Commercial Truck,,NOx,1
+Gasoline,Light Commercial Truck,,PM10,1
+Gasoline,Light Commercial Truck,,PM10 (TBW),1
+Gasoline,Light Commercial Truck,,PM2.5,1
+Gasoline,Light Commercial Truck,,PM2.5 (TBW),1
+Gasoline,Light Commercial Truck,,VOC,1
+Gasoline,Light Commercial Truck,,VOC (Evap),1
+Gasoline,Passenger Car,N/A,CO,1
+Gasoline,Passenger Car,N/A,NOx,1
+Gasoline,Passenger Car,N/A,PM10,1
+Gasoline,Passenger Car,N/A,PM10 (TBW),1
+Gasoline,Passenger Car,N/A,PM2.5,1
+Gasoline,Passenger Car,N/A,PM2.5 (TBW),1
+Gasoline,Passenger Car,N/A,VOC,1
+Gasoline,Passenger Car,N/A,VOC (Evap),1
+Gasoline,Passenger Truck,N/A,CO,1
+Gasoline,Passenger Truck,N/A,NOx,1
+Gasoline,Passenger Truck,N/A,PM10,1
+Gasoline,Passenger Truck,N/A,PM10 (TBW),1
+Gasoline,Passenger Truck,N/A,PM2.5,1
+Gasoline,Passenger Truck,N/A,PM2.5 (TBW),1
+Gasoline,Passenger Truck,N/A,VOC,1
+Gasoline,Passenger Truck,N/A,VOC (Evap),1
+Gasoline,Refuse Truck,,CO,1
+Gasoline,Refuse Truck,,NOx,1
+Gasoline,Refuse Truck,,PM10,1
+Gasoline,Refuse Truck,,PM10 (TBW),1
+Gasoline,Refuse Truck,,PM2.5,1
+Gasoline,Refuse Truck,,PM2.5 (TBW),1
+Gasoline,Refuse Truck,,VOC,1
+Gasoline,Refuse Truck,,VOC (Evap),1
+Gasoline,School Bus,,CO,1
+Gasoline,School Bus,,NOx,1
+Gasoline,School Bus,,PM10,1
+Gasoline,School Bus,,PM10 (TBW),1
+Gasoline,School Bus,,PM2.5,1
+Gasoline,School Bus,,PM2.5 (TBW),1
+Gasoline,School Bus,,VOC,1
+Gasoline,School Bus,,VOC (Evap),1
+Gasoline,Single Unit Long-haul Truck,,CO,1
+Gasoline,Single Unit Long-haul Truck,,NOx,1
+Gasoline,Single Unit Long-haul Truck,,PM10,1
+Gasoline,Single Unit Long-haul Truck,,PM10 (TBW),1
+Gasoline,Single Unit Long-haul Truck,,PM2.5,1
+Gasoline,Single Unit Long-haul Truck,,PM2.5 (TBW),1
+Gasoline,Single Unit Long-haul Truck,,VOC,1
+Gasoline,Single Unit Long-haul Truck,,VOC (Evap),1
+Gasoline,Single Unit Short-haul Truck,,CO,1
+Gasoline,Single Unit Short-haul Truck,,NOx,1
+Gasoline,Single Unit Short-haul Truck,,PM10,1
+Gasoline,Single Unit Short-haul Truck,,PM10 (TBW),1
+Gasoline,Single Unit Short-haul Truck,,PM2.5,1
+Gasoline,Single Unit Short-haul Truck,,PM2.5 (TBW),1
+Gasoline,Single Unit Short-haul Truck,,VOC,1
+Gasoline,Single Unit Short-haul Truck,,VOC (Evap),1
+Gasoline,Transit Bus,,CO,1
+Gasoline,Transit Bus,,NOx,1
+Gasoline,Transit Bus,,PM10,1
+Gasoline,Transit Bus,,PM10 (TBW),1
+Gasoline,Transit Bus,,PM2.5,1
+Gasoline,Transit Bus,,PM2.5 (TBW),1
+Gasoline,Transit Bus,,VOC,1
+Gasoline,Transit Bus,,VOC (Evap),1
+Diesel,Combination Long-haul Truck,,CO,1
+Diesel,Combination Long-haul Truck,,NOx,1
+Diesel,Combination Long-haul Truck,,PM10,1
+Diesel,Combination Long-haul Truck,,PM10 (TBW),1
+Diesel,Combination Long-haul Truck,,PM2.5,1
+Diesel,Combination Long-haul Truck,,PM2.5 (TBW),1
+Diesel,Combination Long-haul Truck,,VOC,1
+Diesel,Combination Long-haul Truck,,VOC (Evap),1
+Diesel,Combination Short-haul Truck,,CO,1
+Diesel,Combination Short-haul Truck,,NOx,1
+Diesel,Combination Short-haul Truck,,PM10,1
+Diesel,Combination Short-haul Truck,,PM10 (TBW),1
+Diesel,Combination Short-haul Truck,,PM2.5,1
+Diesel,Combination Short-haul Truck,,PM2.5 (TBW),1
+Diesel,Combination Short-haul Truck,,VOC,1
+Diesel,Combination Short-haul Truck,,VOC (Evap),1
+Diesel,Light Commercial Truck,,CO,1
+Diesel,Light Commercial Truck,,NOx,1
+Diesel,Light Commercial Truck,,PM10,1
+Diesel,Light Commercial Truck,,PM10 (TBW),1
+Diesel,Light Commercial Truck,,PM2.5,1
+Diesel,Light Commercial Truck,,PM2.5 (TBW),1
+Diesel,Light Commercial Truck,,VOC,1
+Diesel,Light Commercial Truck,,VOC (Evap),1
+Diesel,Passenger Car,N/A,CO,1
+Diesel,Passenger Car,N/A,NOx,1
+Diesel,Passenger Car,N/A,PM10,1
+Diesel,Passenger Car,N/A,PM10 (TBW),1
+Diesel,Passenger Car,N/A,PM2.5,1
+Diesel,Passenger Car,N/A,PM2.5 (TBW),1
+Diesel,Passenger Car,N/A,VOC,1
+Diesel,Passenger Car,N/A,VOC (Evap),1
+Diesel,Passenger Truck,N/A,CO,1
+Diesel,Passenger Truck,N/A,NOx,1
+Diesel,Passenger Truck,N/A,PM10,1
+Diesel,Passenger Truck,N/A,PM10 (TBW),1
+Diesel,Passenger Truck,N/A,PM2.5,1
+Diesel,Passenger Truck,N/A,PM2.5 (TBW),1
+Diesel,Passenger Truck,N/A,VOC,1
+Diesel,Passenger Truck,N/A,VOC (Evap),1
+Diesel,Refuse Truck,,CO,1
+Diesel,Refuse Truck,,NOx,1
+Diesel,Refuse Truck,,PM10,1
+Diesel,Refuse Truck,,PM10 (TBW),1
+Diesel,Refuse Truck,,PM2.5,1
+Diesel,Refuse Truck,,PM2.5 (TBW),1
+Diesel,Refuse Truck,,VOC,1
+Diesel,Refuse Truck,,VOC (Evap),1
+Diesel,School Bus,,CO,1
+Diesel,School Bus,,NOx,1
+Diesel,School Bus,,PM10,1
+Diesel,School Bus,,PM10 (TBW),1
+Diesel,School Bus,,PM2.5,1
+Diesel,School Bus,,PM2.5 (TBW),1
+Diesel,School Bus,,VOC,1
+Diesel,School Bus,,VOC (Evap),1
+Diesel,Single Unit Long-haul Truck,,CO,1
+Diesel,Single Unit Long-haul Truck,,NOx,1
+Diesel,Single Unit Long-haul Truck,,PM10,1
+Diesel,Single Unit Long-haul Truck,,PM10 (TBW),1
+Diesel,Single Unit Long-haul Truck,,PM2.5,1
+Diesel,Single Unit Long-haul Truck,,PM2.5 (TBW),1
+Diesel,Single Unit Long-haul Truck,,VOC,1
+Diesel,Single Unit Long-haul Truck,,VOC (Evap),1
+Diesel,Single Unit Short-haul Truck,,CO,1
+Diesel,Single Unit Short-haul Truck,,NOx,1
+Diesel,Single Unit Short-haul Truck,,PM10,1
+Diesel,Single Unit Short-haul Truck,,PM10 (TBW),1
+Diesel,Single Unit Short-haul Truck,,PM2.5,1
+Diesel,Single Unit Short-haul Truck,,PM2.5 (TBW),1
+Diesel,Single Unit Short-haul Truck,,VOC,1
+Diesel,Single Unit Short-haul Truck,,VOC (Evap),1
+Diesel,Transit Bus,,CO,1
+Diesel,Transit Bus,,NOx,1
+Diesel,Transit Bus,,PM10,1
+Diesel,Transit Bus,,PM10 (TBW),1
+Diesel,Transit Bus,,PM2.5,1
+Diesel,Transit Bus,,PM2.5 (TBW),1
+Diesel,Transit Bus,,VOC,1
+Diesel,Transit Bus,,VOC (Evap),1
+FCV,Combination Long-haul Truck,,CO,0
+FCV,Combination Long-haul Truck,,NOx,0
+FCV,Combination Long-haul Truck,,PM10,0
+FCV,Combination Long-haul Truck,,PM10 (TBW),1
+FCV,Combination Long-haul Truck,,PM2.5,0
+FCV,Combination Long-haul Truck,,PM2.5 (TBW),1
+FCV,Combination Long-haul Truck,,VOC,0
+FCV,Combination Long-haul Truck,,VOC (Evap),0
+FCV,Combination Short-haul Truck,,CO,0
+FCV,Combination Short-haul Truck,,NOx,0
+FCV,Combination Short-haul Truck,,PM10,0
+FCV,Combination Short-haul Truck,,PM10 (TBW),1
+FCV,Combination Short-haul Truck,,PM2.5,0
+FCV,Combination Short-haul Truck,,PM2.5 (TBW),1
+FCV,Combination Short-haul Truck,,VOC,0
+FCV,Combination Short-haul Truck,,VOC (Evap),0
+FCV,Light Commercial Truck,,CO,0
+FCV,Light Commercial Truck,,NOx,0
+FCV,Light Commercial Truck,,PM10,0
+FCV,Light Commercial Truck,,PM10 (TBW),1
+FCV,Light Commercial Truck,,PM2.5,0
+FCV,Light Commercial Truck,,PM2.5 (TBW),1
+FCV,Light Commercial Truck,,VOC,0
+FCV,Light Commercial Truck,,VOC (Evap),0
+FCV,Passenger Car,N/A,CO,0
+FCV,Passenger Car,N/A,NOx,0
+FCV,Passenger Car,N/A,PM10,0
+FCV,Passenger Car,N/A,PM10 (TBW),1
+FCV,Passenger Car,N/A,PM2.5,0
+FCV,Passenger Car,N/A,PM2.5 (TBW),1
+FCV,Passenger Car,N/A,VOC,0
+FCV,Passenger Car,N/A,VOC (Evap),0
+FCV,Passenger Truck,N/A,CO,0
+FCV,Passenger Truck,N/A,NOx,0
+FCV,Passenger Truck,N/A,PM10,0
+FCV,Passenger Truck,N/A,PM10 (TBW),1
+FCV,Passenger Truck,N/A,PM2.5,0
+FCV,Passenger Truck,N/A,PM2.5 (TBW),1
+FCV,Passenger Truck,N/A,VOC,0
+FCV,Passenger Truck,N/A,VOC (Evap),0
+FCV,Refuse Truck,,CO,0
+FCV,Refuse Truck,,NOx,0
+FCV,Refuse Truck,,PM10,0
+FCV,Refuse Truck,,PM10 (TBW),1
+FCV,Refuse Truck,,PM2.5,0
+FCV,Refuse Truck,,PM2.5 (TBW),1
+FCV,Refuse Truck,,VOC,0
+FCV,Refuse Truck,,VOC (Evap),0
+FCV,School Bus,,CO,0
+FCV,School Bus,,NOx,0
+FCV,School Bus,,PM10,0
+FCV,School Bus,,PM10 (TBW),1
+FCV,School Bus,,PM2.5,0
+FCV,School Bus,,PM2.5 (TBW),1
+FCV,School Bus,,VOC,0
+FCV,School Bus,,VOC (Evap),0
+FCV,Single Unit Long-haul Truck,,CO,0
+FCV,Single Unit Long-haul Truck,,NOx,0
+FCV,Single Unit Long-haul Truck,,PM10,0
+FCV,Single Unit Long-haul Truck,,PM10 (TBW),1
+FCV,Single Unit Long-haul Truck,,PM2.5,0
+FCV,Single Unit Long-haul Truck,,PM2.5 (TBW),1
+FCV,Single Unit Long-haul Truck,,VOC,0
+FCV,Single Unit Long-haul Truck,,VOC (Evap),0
+FCV,Single Unit Short-haul Truck,,CO,0
+FCV,Single Unit Short-haul Truck,,NOx,0
+FCV,Single Unit Short-haul Truck,,PM10,0
+FCV,Single Unit Short-haul Truck,,PM10 (TBW),1
+FCV,Single Unit Short-haul Truck,,PM2.5,0
+FCV,Single Unit Short-haul Truck,,PM2.5 (TBW),1
+FCV,Single Unit Short-haul Truck,,VOC,0
+FCV,Single Unit Short-haul Truck,,VOC (Evap),0
+FCV,Transit Bus,,CO,0
+FCV,Transit Bus,,NOx,0
+FCV,Transit Bus,,PM10,0
+FCV,Transit Bus,,PM10 (TBW),1
+FCV,Transit Bus,,PM2.5,0
+FCV,Transit Bus,,PM2.5 (TBW),1
+FCV,Transit Bus,,VOC,0
+FCV,Transit Bus,,VOC (Evap),0
+EV,Combination Long-haul Truck,,CO,0
+EV,Combination Long-haul Truck,,NOx,0
+EV,Combination Long-haul Truck,,PM10,0
+EV,Combination Long-haul Truck,,PM10 (TBW),1
+EV,Combination Long-haul Truck,,PM2.5,0
+EV,Combination Long-haul Truck,,PM2.5 (TBW),1
+EV,Combination Long-haul Truck,,VOC,0
+EV,Combination Long-haul Truck,,VOC (Evap),0
+EV,Combination Short-haul Truck,,CO,0
+EV,Combination Short-haul Truck,,NOx,0
+EV,Combination Short-haul Truck,,PM10,0
+EV,Combination Short-haul Truck,,PM10 (TBW),1
+EV,Combination Short-haul Truck,,PM2.5,0
+EV,Combination Short-haul Truck,,PM2.5 (TBW),1
+EV,Combination Short-haul Truck,,VOC,0
+EV,Combination Short-haul Truck,,VOC (Evap),0
+EV,Light Commercial Truck,,CO,0
+EV,Light Commercial Truck,,NOx,0
+EV,Light Commercial Truck,,PM10,0
+EV,Light Commercial Truck,,PM10 (TBW),1
+EV,Light Commercial Truck,,PM2.5,0
+EV,Light Commercial Truck,,PM2.5 (TBW),1
+EV,Light Commercial Truck,,VOC,0
+EV,Light Commercial Truck,,VOC (Evap),0
+EV,Passenger Car,N/A,CO,0
+EV,Passenger Car,N/A,NOx,0
+EV,Passenger Car,N/A,PM10,0
+EV,Passenger Car,N/A,PM10 (TBW),1
+EV,Passenger Car,N/A,PM2.5,0
+EV,Passenger Car,N/A,PM2.5 (TBW),1
+EV,Passenger Car,N/A,VOC,0
+EV,Passenger Car,N/A,VOC (Evap),0
+EV,Passenger Truck,N/A,CO,0
+EV,Passenger Truck,N/A,NOx,0
+EV,Passenger Truck,N/A,PM10,0
+EV,Passenger Truck,N/A,PM10 (TBW),1
+EV,Passenger Truck,N/A,PM2.5,0
+EV,Passenger Truck,N/A,PM2.5 (TBW),1
+EV,Passenger Truck,N/A,VOC,0
+EV,Passenger Truck,N/A,VOC (Evap),0
+EV,Refuse Truck,,CO,0
+EV,Refuse Truck,,NOx,0
+EV,Refuse Truck,,PM10,0
+EV,Refuse Truck,,PM10 (TBW),1
+EV,Refuse Truck,,PM2.5,0
+EV,Refuse Truck,,PM2.5 (TBW),1
+EV,Refuse Truck,,VOC,0
+EV,Refuse Truck,,VOC (Evap),0
+EV,School Bus,,CO,0
+EV,School Bus,,NOx,0
+EV,School Bus,,PM10,0
+EV,School Bus,,PM10 (TBW),1
+EV,School Bus,,PM2.5,0
+EV,School Bus,,PM2.5 (TBW),1
+EV,School Bus,,VOC,0
+EV,School Bus,,VOC (Evap),0
+EV,Single Unit Long-haul Truck,,CO,0
+EV,Single Unit Long-haul Truck,,NOx,0
+EV,Single Unit Long-haul Truck,,PM10,0
+EV,Single Unit Long-haul Truck,,PM10 (TBW),1
+EV,Single Unit Long-haul Truck,,PM2.5,0
+EV,Single Unit Long-haul Truck,,PM2.5 (TBW),1
+EV,Single Unit Long-haul Truck,,VOC,0
+EV,Single Unit Long-haul Truck,,VOC (Evap),0
+EV,Single Unit Short-haul Truck,,CO,0
+EV,Single Unit Short-haul Truck,,NOx,0
+EV,Single Unit Short-haul Truck,,PM10,0
+EV,Single Unit Short-haul Truck,,PM10 (TBW),1
+EV,Single Unit Short-haul Truck,,PM2.5,0
+EV,Single Unit Short-haul Truck,,PM2.5 (TBW),1
+EV,Single Unit Short-haul Truck,,VOC,0
+EV,Single Unit Short-haul Truck,,VOC (Evap),0
+EV,Transit Bus,,CO,0
+EV,Transit Bus,,NOx,0
+EV,Transit Bus,,PM10,0
+EV,Transit Bus,,PM10 (TBW),1
+EV,Transit Bus,,PM2.5,0
+EV,Transit Bus,,PM2.5 (TBW),1
+EV,Transit Bus,,VOC,0
+EV,Transit Bus,,VOC (Evap),0
+PHEV,Combination Long-haul Truck,,CO,0.5
+PHEV,Combination Long-haul Truck,,NOx,1
+PHEV,Combination Long-haul Truck,,PM10,1
+PHEV,Combination Long-haul Truck,,PM10 (TBW),1
+PHEV,Combination Long-haul Truck,,PM2.5,1
+PHEV,Combination Long-haul Truck,,PM2.5 (TBW),1
+PHEV,Combination Long-haul Truck,,VOC,1
+PHEV,Combination Long-haul Truck,,VOC (Evap),1
+PHEV,Combination Short-haul Truck,,CO,0.5
+PHEV,Combination Short-haul Truck,,NOx,1
+PHEV,Combination Short-haul Truck,,PM10,1
+PHEV,Combination Short-haul Truck,,PM10 (TBW),1
+PHEV,Combination Short-haul Truck,,PM2.5,1
+PHEV,Combination Short-haul Truck,,PM2.5 (TBW),1
+PHEV,Combination Short-haul Truck,,VOC,1
+PHEV,Combination Short-haul Truck,,VOC (Evap),1
+PHEV,Light Commercial Truck,,CO,1
+PHEV,Light Commercial Truck,,NOx,0.84
+PHEV,Light Commercial Truck,,PM10,1
+PHEV,Light Commercial Truck,,PM10 (TBW),1
+PHEV,Light Commercial Truck,,PM2.5,1
+PHEV,Light Commercial Truck,,PM2.5 (TBW),1
+PHEV,Light Commercial Truck,,VOC,0.54
+PHEV,Light Commercial Truck,,VOC (Evap),1
+PHEV,Passenger Car,N/A,CO,1
+PHEV,Passenger Car,N/A,NOx,0.84
+PHEV,Passenger Car,N/A,PM10,1
+PHEV,Passenger Car,N/A,PM10 (TBW),1
+PHEV,Passenger Car,N/A,PM2.5,1
+PHEV,Passenger Car,N/A,PM2.5 (TBW),1
+PHEV,Passenger Car,N/A,VOC,0.54
+PHEV,Passenger Car,N/A,VOC (Evap),1
+PHEV,Passenger Truck,N/A,CO,1
+PHEV,Passenger Truck,N/A,NOx,0.84
+PHEV,Passenger Truck,N/A,PM10,1
+PHEV,Passenger Truck,N/A,PM10 (TBW),1
+PHEV,Passenger Truck,N/A,PM2.5,1
+PHEV,Passenger Truck,N/A,PM2.5 (TBW),1
+PHEV,Passenger Truck,N/A,VOC,0.54
+PHEV,Passenger Truck,N/A,VOC (Evap),1
+PHEV,Refuse Truck,,CO,0.5
+PHEV,Refuse Truck,,NOx,1
+PHEV,Refuse Truck,,PM10,1
+PHEV,Refuse Truck,,PM10 (TBW),1
+PHEV,Refuse Truck,,PM2.5,1
+PHEV,Refuse Truck,,PM2.5 (TBW),1
+PHEV,Refuse Truck,,VOC,1
+PHEV,Refuse Truck,,VOC (Evap),1
+PHEV,School Bus,,CO,0.5
+PHEV,School Bus,,NOx,1
+PHEV,School Bus,,PM10,1
+PHEV,School Bus,,PM10 (TBW),1
+PHEV,School Bus,,PM2.5,1
+PHEV,School Bus,,PM2.5 (TBW),1
+PHEV,School Bus,,VOC,1
+PHEV,School Bus,,VOC (Evap),1
+PHEV,Single Unit Long-haul Truck,,CO,0.5
+PHEV,Single Unit Long-haul Truck,,NOx,1
+PHEV,Single Unit Long-haul Truck,,PM10,1
+PHEV,Single Unit Long-haul Truck,,PM10 (TBW),1
+PHEV,Single Unit Long-haul Truck,,PM2.5,1
+PHEV,Single Unit Long-haul Truck,,PM2.5 (TBW),1
+PHEV,Single Unit Long-haul Truck,,VOC,1
+PHEV,Single Unit Long-haul Truck,,VOC (Evap),1
+PHEV,Single Unit Short-haul Truck,,CO,0.5
+PHEV,Single Unit Short-haul Truck,,NOx,1
+PHEV,Single Unit Short-haul Truck,,PM10,1
+PHEV,Single Unit Short-haul Truck,,PM10 (TBW),1
+PHEV,Single Unit Short-haul Truck,,PM2.5,1
+PHEV,Single Unit Short-haul Truck,,PM2.5 (TBW),1
+PHEV,Single Unit Short-haul Truck,,VOC,1
+PHEV,Single Unit Short-haul Truck,,VOC (Evap),1
+PHEV,Transit Bus,,CO,0.5
+PHEV,Transit Bus,,NOx,1
+PHEV,Transit Bus,,PM10,1
+PHEV,Transit Bus,,PM10 (TBW),1
+PHEV,Transit Bus,,PM2.5,1
+PHEV,Transit Bus,,PM2.5 (TBW),1
+PHEV,Transit Bus,,VOC,1
+PHEV,Transit Bus,,VOC (Evap),1
+EREV,Combination Long-haul Truck,,CO,0.5
+EREV,Combination Long-haul Truck,,NOx,1
+EREV,Combination Long-haul Truck,,PM10,1
+EREV,Combination Long-haul Truck,,PM10 (TBW),1
+EREV,Combination Long-haul Truck,,PM2.5,1
+EREV,Combination Long-haul Truck,,PM2.5 (TBW),1
+EREV,Combination Long-haul Truck,,VOC,1
+EREV,Combination Long-haul Truck,,VOC (Evap),1
+EREV,Combination Short-haul Truck,,CO,0.5
+EREV,Combination Short-haul Truck,,NOx,1
+EREV,Combination Short-haul Truck,,PM10,1
+EREV,Combination Short-haul Truck,,PM10 (TBW),1
+EREV,Combination Short-haul Truck,,PM2.5,1
+EREV,Combination Short-haul Truck,,PM2.5 (TBW),1
+EREV,Combination Short-haul Truck,,VOC,1
+EREV,Combination Short-haul Truck,,VOC (Evap),1
+EREV,Light Commercial Truck,,CO,1
+EREV,Light Commercial Truck,,NOx,0.84
+EREV,Light Commercial Truck,,PM10,1
+EREV,Light Commercial Truck,,PM10 (TBW),1
+EREV,Light Commercial Truck,,PM2.5,1
+EREV,Light Commercial Truck,,PM2.5 (TBW),1
+EREV,Light Commercial Truck,,VOC,0.54
+EREV,Light Commercial Truck,,VOC (Evap),1
+EREV,Passenger Car,N/A,CO,1
+EREV,Passenger Car,N/A,NOx,0.84
+EREV,Passenger Car,N/A,PM10,1
+EREV,Passenger Car,N/A,PM10 (TBW),1
+EREV,Passenger Car,N/A,PM2.5,1
+EREV,Passenger Car,N/A,PM2.5 (TBW),1
+EREV,Passenger Car,N/A,VOC,0.54
+EREV,Passenger Car,N/A,VOC (Evap),1
+EREV,Passenger Truck,N/A,CO,1
+EREV,Passenger Truck,N/A,NOx,0.84
+EREV,Passenger Truck,N/A,PM10,1
+EREV,Passenger Truck,N/A,PM10 (TBW),1
+EREV,Passenger Truck,N/A,PM2.5,1
+EREV,Passenger Truck,N/A,PM2.5 (TBW),1
+EREV,Passenger Truck,N/A,VOC,0.54
+EREV,Passenger Truck,N/A,VOC (Evap),1
+EREV,Refuse Truck,,CO,0.5
+EREV,Refuse Truck,,NOx,1
+EREV,Refuse Truck,,PM10,1
+EREV,Refuse Truck,,PM10 (TBW),1
+EREV,Refuse Truck,,PM2.5,1
+EREV,Refuse Truck,,PM2.5 (TBW),1
+EREV,Refuse Truck,,VOC,1
+EREV,Refuse Truck,,VOC (Evap),1
+EREV,School Bus,,CO,0.5
+EREV,School Bus,,NOx,1
+EREV,School Bus,,PM10,1
+EREV,School Bus,,PM10 (TBW),1
+EREV,School Bus,,PM2.5,1
+EREV,School Bus,,PM2.5 (TBW),1
+EREV,School Bus,,VOC,1
+EREV,School Bus,,VOC (Evap),1
+EREV,Single Unit Long-haul Truck,,CO,0.5
+EREV,Single Unit Long-haul Truck,,NOx,1
+EREV,Single Unit Long-haul Truck,,PM10,1
+EREV,Single Unit Long-haul Truck,,PM10 (TBW),1
+EREV,Single Unit Long-haul Truck,,PM2.5,1
+EREV,Single Unit Long-haul Truck,,PM2.5 (TBW),1
+EREV,Single Unit Long-haul Truck,,VOC,1
+EREV,Single Unit Long-haul Truck,,VOC (Evap),1
+EREV,Single Unit Short-haul Truck,,CO,0.5
+EREV,Single Unit Short-haul Truck,,NOx,1
+EREV,Single Unit Short-haul Truck,,PM10,1
+EREV,Single Unit Short-haul Truck,,PM10 (TBW),1
+EREV,Single Unit Short-haul Truck,,PM2.5,1
+EREV,Single Unit Short-haul Truck,,PM2.5 (TBW),1
+EREV,Single Unit Short-haul Truck,,VOC,1
+EREV,Single Unit Short-haul Truck,,VOC (Evap),1
+EREV,Transit Bus,,CO,0.5
+EREV,Transit Bus,,NOx,1
+EREV,Transit Bus,,PM10,1
+EREV,Transit Bus,,PM10 (TBW),1
+EREV,Transit Bus,,PM2.5,1
+EREV,Transit Bus,,PM2.5 (TBW),1
+EREV,Transit Bus,,VOC,1
+EREV,Transit Bus,,VOC (Evap),1

@@ -1,0 +1,167 @@
+WeightClass,VehicleApplication,Configuration,Powertrain,FuelEfficiencyUS,Maintenance_US,Default_price_US,GHG_EF_lifecycle
+Class 2b,Freight and Cargo,Cargo Van,Battery electric,0.63,0.13,60000,
+Class 2b,Freight and Cargo,Chassis Cab,Battery electric,0.79,0.13,51000,
+Class 2b,Freight and Cargo,Step Van,Battery electric,0.84,0.13,100000,
+Class 3,Freight and Cargo,Step Van,Battery electric,0.95,0.13,105000,
+Class 3,Freight and Cargo,Chassis Cab,Battery electric,0.85,0.13,90000,
+Class 3,Freight and Cargo,Cargo Van,Battery electric,0.74,0.13,130000,
+Class 4,Freight and Cargo,Cargo Van,Battery electric,0.95,0.13,122000,
+Class 4,Freight and Cargo,Chassis Cab,Battery electric,0.95,0.13,140000,
+Class 4,Freight and Cargo,Box Truck,Battery electric,0.95,0.14,162000,
+Class 4,Freight and Cargo,Step Van,Battery electric,0.95,0.13,115000,
+Class 5,Freight and Cargo,Box Truck,Battery electric,1.24,0.16,180000,
+Class 5,Freight and Cargo,Step Van,Battery electric,1.55,0.16,155000,
+Class 5,Freight and Cargo,Chassis Cab,Battery electric,1.26,0.16,220000,
+Class 6,Freight and Cargo,Box Truck,Battery electric,1.67,0.16,300000,
+Class 6,Freight and Cargo,Step Van,Battery electric,1.61,0.13,205147,
+Class 6,Freight and Cargo,Chassis Cab,Battery electric,1.37,0.16,258847,
+Class 7,Freight and Cargo,Box Truck,Battery electric,2.12,0.16,360000,
+Class 7,Freight and Cargo,Chassis Cab,Battery electric,2.21,0.16,302000,
+Class 8,Specialized Services,Refuse,Battery electric,4.51,2.06,627080,
+Class 8,Freight and Cargo,Box Truck,Battery electric,2.38,0.16,444118,
+Class 8 Regional,Freight and Cargo,Tractor,Battery electric,2.51,0.15,451117,
+Class 8 Long Haul,Freight and Cargo,Tractor,Battery electric,2.51,0.15,451117,
+Class 8,Specialized Services,Fire Truck,Battery electric,0.51,1.01,1500000,
+Class 3,Passenger Transport,Passenger Van,Battery electric,0.74,0.13,115000,
+Class 4,Passenger Transport,Passenger Van,Battery electric,0.95,0.22,131000,
+Class 4,Passenger Transport,Shuttle Bus,Battery electric,1.06,0.19,230000,
+Type A,Passenger Transport,School Bus,Battery electric,1.08,0.2,250000,
+Type C,Passenger Transport,School Bus,Battery electric,1.77,0.56,375000,
+Type D,Passenger Transport,School Bus,Battery electric,1.93,0.56,425000,
+Class 8 40ft,Passenger Transport,Transit Bus,Battery electric,2.08,0.6,950000,
+Class 8,Passenger Transport,Coach Bus,Battery electric,2.51,0.67,1100000,
+Class 2b,Freight and Cargo,Cargo Van,Diesel,17.5,0.31,52000,708
+Class 2b,Freight and Cargo,Chassis Cab,Diesel,14.5,0.31,44000,854.4827586
+Class 2b,Freight and Cargo,Step Van,Diesel,13,0.31,55000,953.0769231
+Class 3,Freight and Cargo,Step Van,Diesel,12.5,0.31,69000,991.2
+Class 3,Freight and Cargo,Chassis Cab,Diesel,12.5,0.31,67000,991.2
+Class 3,Freight and Cargo,Cargo Van,Diesel,12.5,0.31,59000,991.2
+Class 4,Freight and Cargo,Cargo Van,Diesel,10.5,0.2,54000,1180
+Class 4,Freight and Cargo,Chassis Cab,Diesel,10,0.2,67000,1239
+Class 4,Freight and Cargo,Box Truck,Diesel,9,0.2,75000,1376.666667
+Class 4,Freight and Cargo,Step Van,Diesel,9.1,0.2,69000,1361.538462
+Class 5,Freight and Cargo,Box Truck,Diesel,8.58,0.2,80000,1444.055944
+Class 5,Freight and Cargo,Step Van,Diesel,9.1,0.2,110000,1361.538462
+Class 5,Freight and Cargo,Chassis Cab,Diesel,9.4,0.2,75000,1318.085106
+Class 6,Freight and Cargo,Box Truck,Diesel,8,0.2,115000,1548.75
+Class 6,Freight and Cargo,Step Van,Diesel,8.5,0.2,110000,1457.647059
+Class 6,Freight and Cargo,Chassis Cab,Diesel,8.7,0.2,94000,1424.137931
+Class 7,Freight and Cargo,Box Truck,Diesel,7,0.2,115000,1770
+Class 7,Freight and Cargo,Chassis Cab,Diesel,7,0.2,100000,1770
+Class 8,Specialized Services,Refuse,Diesel,4,3.07,350000,3097.5
+Class 8,Freight and Cargo,Box Truck,Diesel,6,0.2,130000,2065
+Class 8 Regional,Freight and Cargo,Tractor,Diesel,6.75,0.18,160000,1835.555556
+Class 8 Long Haul,Freight and Cargo,Tractor,Diesel,6.94,0.18,170000,1785.302594
+Class 8,Specialized Services,Fire Truck,Diesel,5,1.5,850000,2478
+Class 3,Passenger Transport,Passenger Van,Diesel,12.5,0.31,95000,991.2
+Class 4,Passenger Transport,Passenger Van,Diesel,10,0.32,110000,1239
+Class 4,Passenger Transport,Shuttle Bus,Diesel,9,0.32,130000,1376.666667
+Type A,Passenger Transport,School Bus,Diesel,9,0.33,80000,1376.666667
+Type C,Passenger Transport,School Bus,Diesel,8.16,0.94,110000,1518.382353
+Type D,Passenger Transport,School Bus,Diesel,7,0.94,140000,1770
+Class 8 40ft,Passenger Transport,Transit Bus,Diesel,5,1,440000,2478
+Class 8,Passenger Transport,Coach Bus,Diesel,6,1,588000,2065
+Class 8 Regional,Freight and Cargo,Tractor,Hydrogen Fuel Cell,10.93,0.15,212350,
+Class 8 Long Haul,Freight and Cargo,Tractor,Hydrogen Fuel Cell,10.98,0.15,251400,
+Class 8 40ft,Passenger Transport,Transit Bus,Hydrogen Fuel Cell,8.3,0.6,1250000,144.5783133
+Class 2b,Freight and Cargo,Cargo Van,Gasoline,12.5,0.21,41080,912
+Class 3,Freight and Cargo,Cargo Van,Gasoline,10.9,0.21,46610,1045.87156
+Class 3,Freight and Cargo,Chassis Cab,Gasoline,10.9,0.21,54940,1045.87156
+Class 4,Freight and Cargo,Chassis Cab,Gasoline,8.5,0.13,54940,1341.176471
+Class 4,Freight and Cargo,Box Truck,Gasoline,7.5,0.13,61500,1520
+Class 4,Freight and Cargo,Step Van,Gasoline,7.5,0.13,56580,1520
+Class 5,Freight and Cargo,Chassis Cab,Gasoline,7.5,0.13,61500,1520
+Class 4,Passenger Transport,Passenger Van,Gasoline,8.5,0.21,96800,1341.176471
+Type A,Passenger Transport,School Bus,Gasoline,7,0.21,70400,1628.571429
+Type C,Passenger Transport,School Bus,Gasoline,6,0.62,96800,1900
+Class 4,Freight and Cargo,Chassis Cab,Diesel HEV,11.5,0.18,80400,1077.391304
+Class 5,Freight and Cargo,Chassis Cab,Diesel HEV,10.5,0.18,90000,1180
+Class 6,Freight and Cargo,Step Van,Diesel HEV,10,0.15,132000,1239
+Class 6,Freight and Cargo,Chassis Cab,Diesel HEV,10,0.18,112800,1239
+Class 6,Freight and Cargo,Box Truck,Diesel HEV,9.5,0.18,138000,1304.210526
+Class 7,Freight and Cargo,Chassis Cab,Diesel HEV,8.5,0.18,120000,1457.647059
+Class 7,Freight and Cargo,Box Truck,Diesel HEV,8.5,0.18,138000,1457.647059
+Class 8,Specialized Services,Refuse,Diesel HEV,6,2.33,409500,2065
+Class 8 40ft,Passenger Transport,Transit Bus,Diesel HEV,6,0.87,594000,2065
+Class 2b,Freight and Cargo,Cargo Van,Biodiesel B20,17.5,0.31,52000,612
+Class 2b,Freight and Cargo,Chassis Cab,Biodiesel B20,14.5,0.31,44000,738.6206897
+Class 2b,Freight and Cargo,Step Van,Biodiesel B20,13,0.31,55000,823.8461538
+Class 3,Freight and Cargo,Step Van,Biodiesel B20,12.5,0.31,69000,856.8
+Class 3,Freight and Cargo,Chassis Cab,Biodiesel B20,12.5,0.31,67000,856.8
+Class 3,Freight and Cargo,Cargo Van,Biodiesel B20,12.5,0.31,59000,856.8
+Class 4,Freight and Cargo,Cargo Van,Biodiesel B20,10.5,0.2,54000,1020
+Class 4,Freight and Cargo,Chassis Cab,Biodiesel B20,10,0.2,67000,1071
+Class 4,Freight and Cargo,Box Truck,Biodiesel B20,9,0.2,75000,1190
+Class 4,Freight and Cargo,Step Van,Biodiesel B20,9.1,0.2,69000,1176.923077
+Class 5,Freight and Cargo,Box Truck,Biodiesel B20,8.58,0.2,80000,1248.251748
+Class 5,Freight and Cargo,Step Van,Biodiesel B20,9.1,0.2,110000,1176.923077
+Class 5,Freight and Cargo,Chassis Cab,Biodiesel B20,9.4,0.2,75000,1139.361702
+Class 6,Freight and Cargo,Box Truck,Biodiesel B20,8,0.2,115000,1338.75
+Class 6,Freight and Cargo,Step Van,Biodiesel B20,8.5,0.2,110000,1260
+Class 6,Freight and Cargo,Chassis Cab,Biodiesel B20,8.7,0.2,94000,1231.034483
+Class 7,Freight and Cargo,Box Truck,Biodiesel B20,7,0.2,115000,1530
+Class 7,Freight and Cargo,Chassis Cab,Biodiesel B20,7,0.2,100000,1530
+Class 8,Specialized Services,Refuse,Biodiesel B20,4,3.07,350000,2677.5
+Class 8,Freight and Cargo,Box Truck,Biodiesel B20,6,0.2,130000,1785
+Class 8 Regional,Freight and Cargo,Tractor,Biodiesel B20,6.75,0.18,160000,1586.666667
+Class 8 Long Haul,Freight and Cargo,Tractor,Biodiesel B20,6.94,0.18,170000,1543.227666
+Class 8,Specialized Services,Fire Truck,Biodiesel B20,5,1.5,850000,2142
+Class 3,Passenger Transport,Passenger Van,Biodiesel B20,12.5,0.31,95000,856.8
+Class 4,Passenger Transport,Passenger Van,Biodiesel B20,10,0.32,110000,1071
+Class 4,Passenger Transport,Shuttle Bus,Biodiesel B20,9,0.32,130000,1190
+Type A,Passenger Transport,School Bus,Biodiesel B20,9,0.33,80000,1190
+Type C,Passenger Transport,School Bus,Biodiesel B20,8.16,0.94,110000,1312.5
+Type D,Passenger Transport,School Bus,Biodiesel B20,7,0.94,140000,1530
+Class 8 40ft,Passenger Transport,Transit Bus,Biodiesel B20,5,1,440000,2142
+Class 8,Passenger Transport,Coach Bus,Biodiesel B20,6,1,588000,1785
+Class 2b,Freight and Cargo,Cargo Van,Renewable Diesel R99,17.5,0.31,52000,269
+Class 2b,Freight and Cargo,Chassis Cab,Renewable Diesel R99,14.5,0.31,44000,325
+Class 2b,Freight and Cargo,Step Van,Renewable Diesel R99,13,0.31,55000,362
+Class 3,Freight and Cargo,Step Van,Renewable Diesel R99,12.5,0.31,69000,377
+Class 3,Freight and Cargo,Chassis Cab,Renewable Diesel R99,12.5,0.31,67000,377
+Class 3,Freight and Cargo,Cargo Van,Renewable Diesel R99,12.5,0.31,59000,377
+Class 4,Freight and Cargo,Cargo Van,Renewable Diesel R99,10.5,0.2,54000,448
+Class 4,Freight and Cargo,Chassis Cab,Renewable Diesel R99,10,0.2,67000,471
+Class 4,Freight and Cargo,Box Truck,Renewable Diesel R99,9,0.2,75000,523
+Class 4,Freight and Cargo,Step Van,Renewable Diesel R99,9.1,0.2,69000,517
+Class 5,Freight and Cargo,Box Truck,Renewable Diesel R99,8.58,0.2,80000,549
+Class 5,Freight and Cargo,Step Van,Renewable Diesel R99,9.1,0.2,110000,517
+Class 5,Freight and Cargo,Chassis Cab,Renewable Diesel R99,9.4,0.2,75000,501
+Class 6,Freight and Cargo,Box Truck,Renewable Diesel R99,8,0.2,115000,589
+Class 6,Freight and Cargo,Step Van,Renewable Diesel R99,8.5,0.2,110000,554
+Class 6,Freight and Cargo,Chassis Cab,Renewable Diesel R99,8.7,0.2,94000,541
+Class 7,Freight and Cargo,Box Truck,Renewable Diesel R99,7,0.2,115000,673
+Class 7,Freight and Cargo,Chassis Cab,Renewable Diesel R99,7,0.2,100000,673
+Class 8,Specialized Services,Refuse,Renewable Diesel R99,4,3.07,350000,1177
+Class 8,Freight and Cargo,Box Truck,Renewable Diesel R99,6,0.2,130000,785
+Class 8 Regional,Freight and Cargo,Tractor,Renewable Diesel R99,6.75,0.18,160000,697
+Class 8 Long Haul,Freight and Cargo,Tractor,Renewable Diesel R99,6.94,0.18,170000,678
+Class 8,Specialized Services,Fire Truck,Renewable Diesel R99,5,1.5,850000,942
+Class 3,Passenger Transport,Passenger Van,Renewable Diesel R99,12.5,0.31,95000,377
+Class 4,Passenger Transport,Passenger Van,Renewable Diesel R99,10,0.32,110000,471
+Class 4,Passenger Transport,Shuttle Bus,Renewable Diesel R99,9,0.32,130000,523
+Type A,Passenger Transport,School Bus,Renewable Diesel R99,9,0.33,80000,523
+Type C,Passenger Transport,School Bus,Renewable Diesel R99,8.16,0.94,110000,577
+Type D,Passenger Transport,School Bus,Renewable Diesel R99,7,0.94,140000,673
+Class 8 40ft,Passenger Transport,Transit Bus,Renewable Diesel R99,5,1,440000,942
+Class 8,Passenger Transport,Coach Bus,Renewable Diesel R99,6,1,588000,785
+Class 4,Freight and Cargo,Chassis Cab,CNG,7.5,0.22,102510,1133
+Class 5,Freight and Cargo,Step Van,CNG,7,0.21,172700,1214
+Class 6,Freight and Cargo,Chassis Cab,CNG,6.5,0.22,143820,1308
+Class 7,Freight and Cargo,Chassis Cab,CNG,5.5,0.22,153000,1545
+Class 8 Regional,Freight and Cargo,Tractor,CNG,5,0.19,209600,1700
+Class 8 Long Haul,Freight and Cargo,Tractor,CNG,5.19,0.19,243100,1638
+Class 8 40 ft,Passenger Transport,Transit Bus,CNG,4,1,475200,2125
+Type C,Passenger Transport,School Bus,CNG,6,0.94,143000,1417
+Type D,Passenger Transport,School Bus,CNG,5,0.94,182000,1700
+Class 8,Specialized Services,Refuse,CNG,3,3.28,392000,2833
+Class 4,Freight and Cargo,Chassis Cab,RNG,7.5,0.22,102510,227
+Class 5,Freight and Cargo,Step Van,RNG,7,0.21,172700,243
+Class 6,Freight and Cargo,Chassis Cab,RNG,6.5,0.22,143820,262
+Class 7,Freight and Cargo,Chassis Cab,RNG,5.5,0.22,153000,309
+Class 8 Regional,Freight and Cargo,Tractor,RNG,5,0.19,209600,340
+Class 8 Long Haul,Freight and Cargo,Tractor,RNG,5.19,0.19,243100,328
+Class 8 40 ft,Passenger Transport,Transit Bus,RNG,4,1,475200,425
+Type C,Passenger Transport,School Bus,RNG,6,0.94,143000,283
+Type D,Passenger Transport,School Bus,RNG,5,0.94,182000,340
+Class 8,Specialized Services,Refuse,RNG,3,3.28,392000,567
