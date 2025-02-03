@@ -894,7 +894,7 @@ def collect_charging_refuelling_infrastrcture_costs(evaluated_fuel, chargingInfr
         if evaluated_fuel in alternative_with_refuelling:
             st.subheader("4.2 Refuelling Infrastructure")
             charging_refuelling_infra_cost = st.number_input("Total refuelling infrastructure cost ($):", min_value=0.0, value=0.0, step= 5000.0, format="%.2f")
-            user_chargerRefuelling_incentive_amount = st.number_input("Total federal and state subsidy for refuelling infrastructure ($):", min_value=0.0, value=0.0, step= 5000.0,  format="%.2f")
+            user_chargerRefuelling_incentive_amount = st.number_input("Total federal and state subsidy for refuelling infrastructure ($):", min_value=0.0, value=0.0, step= 5000.0,  format="%.2f", help="Check the Infrastructure State Incentive Programs in the sidebar to estimate the amount you may be eligible for, if applicable")
             
             return 0, 0, charging_refuelling_infra_cost, user_chargerRefuelling_incentive_amount
         
@@ -905,7 +905,7 @@ def collect_charging_refuelling_infrastrcture_costs(evaluated_fuel, chargingInfr
             
             if user_charging_infra_approach == options[0]:
                 charging_refuelling_infra_cost = st.number_input("Total charging infrastructure cost including stations, construction and upgrades ($):", min_value=0.0, value=0.0, step= 5000.0, format="%.0f")
-                user_chargerRefuelling_incentive_amount = st.number_input("Total federal and state subsidy for charging infrastructure ($):", min_value=0.0, value=0.0, step= 5000.0, format="%.0f")
+                user_chargerRefuelling_incentive_amount = st.number_input("Total federal and state subsidy for charging infrastructure ($):", min_value=0.0, value=0.0, step= 5000.0, format="%.0f", help="Check the Infrastructure State Incentive Programs in the sidebar to estimate the amount you may be eligible for, if applicable")
                 
                 return 0, 0, charging_refuelling_infra_cost, user_chargerRefuelling_incentive_amount
             
@@ -932,7 +932,7 @@ def collect_charging_refuelling_infrastrcture_costs(evaluated_fuel, chargingInfr
                 charging_refuelling_infra_cost = charging_station_costs + infra_constr_grid_upgrade_costs
                 st.write(f"Total Charging Infrastructure cost ($): {charging_refuelling_infra_cost:.2f}")
                 
-                user_chargerRefuelling_incentive_amount = st.number_input("Total federal and state subsidy for charging infrastructure ($):", min_value=0.0, value=0.0, step = 5000.0, format="%.2f")
+                user_chargerRefuelling_incentive_amount = st.number_input("Total federal and state subsidy for charging infrastructure ($):", min_value=0.0, value=0.0, step = 5000.0, format="%.2f",help="Check the Infrastructure State Incentive Programs in the sidebar to estimate the amount you may be eligible for, if applicable")
                 
                 return charging_station_costs, infra_constr_grid_upgrade_costs, charging_refuelling_infra_cost, user_chargerRefuelling_incentive_amount
     else:
