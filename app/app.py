@@ -89,9 +89,9 @@ with st.sidebar.expander("💰 Vehicle State Incentive Programs", expanded=True)
 
     # Incentive program data
     vehicle_data = [
-        ("California", '<a href="https://californiahvip.org/tco/" target="_blank">HVIP</a>', "Voucher", "BEV, FCEV", "Class 2b-8", "$7,500 - $240,000"),
-        ("Colorado", '<a href="https://drive.google.com/file/d/1cN-vK4S_itus66yPHnqUgDd99DgWc68M/view" target="_blank">Clean Fleet Grant</a>', "Grant", "BEV, FCEV, PHEV, RNG", "Class 3-8", "$30,000 - $275,000 for BEV, PHEV, FCEV. <br>$45,000 - $95,000 for RNG."),
-        ("Hawaii", '<a href="https://energy.hawaii.gov/what-we-do/financial-assistance-and-grants/diesel-replacement/" target="_blank">Diesel Replacement Rebate</a>', "Rebate", "BEV, FCEV", "Class 5-8", "Up to 45% of project cost including one charger per vehicle"),
+        ("California", '<a href="https://californiahvip.org/vehiclecatalog/" target="_blank">HVIP</a>', "Voucher", "BEV, FCEV", "Class 2b-8", "$7,500 - $240,000"),
+        ("Colorado", '<a href="https://cdphe.colorado.gov/motor-vehicle-emissions/low-and-zero-emission-vehicles/clean-fleet-vehicle-and-technology-grant" target="_blank">Clean Fleet Grant</a>', "Grant", "BEV, FCEV, PHEV, RNG", "Class 3-8", "$30,000 - $275,000 for BEV, PHEV, FCEV. <br>$45,000 - $95,000 for RNG."),
+        ("Hawaii", '<a href="https://energy.hawaii.gov/wp-content/uploads/2022/10/DRR_ProgramGuide_2023-launch-_Final.pdf" target="_blank">Diesel Replacement Rebate</a>', "Rebate", "BEV, FCEV", "Class 5-8", "Up to 45% of project cost including one charger per vehicle"),
         ("Maryland", '<a href="https://energy.maryland.gov/transportation/Pages/MediumandHeavyDutyGrant.aspx" target="_blank">MHD ZEV Grant</a>', "Grant", "BEV, FCEV", "Class 3-8", "$60,000 – $525,000 for BEVs. <br>$172,500 – $468,750 for FCEV."),
         ("Massachusetts", '<a href="https://mor-ev.org/trucks-3-8#prog-req" target="_blank">MOR-EV Trucks</a>', "Rebate", "BEV, FCEV", "Class 3-8", "$15,000 – $90,000"),
         ("Nevada", '<a href="https://ndep.nv.gov/uploads/documents/AB184_EN_as_enrolled.pdf" target="_blank">Nevada Clean Trucks</a>', "Rebate", "BEV, FCEV", "Class 2b-8", "$20,000 – $175,000"),
@@ -550,7 +550,7 @@ def get_user_discount_rate():
     The user inputs a discount rate, and the app uses this rate directly or defaults to 0.03 if the input is outside the acceptable range (0 to 1).
     """
     # Use st.number_input to ensure that the input is a float and provide a default and range
-    discount_rate = st.number_input("Enter discount rate:", min_value=0.0, max_value=1.0, value=0.03, format="%.2f")
+    discount_rate = st.number_input("Enter discount rate:", min_value=0.0, max_value=1.0, value=0.03, format="%.2f",help ="The discount rate accounts for the time value of money, reflecting inflation and the cost of capital. A higher discount rate reduces the present value of future costs and savings, making upfront expenses more significant. A lower discount rate places more emphasis on long-term savings. Typical values range from 3% to 7% depending on financial assumptions.")
     
     # Display the discount rate directly; no need for a button
     return discount_rate
