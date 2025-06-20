@@ -7,19 +7,21 @@ from datetime import datetime
 from opencensus.ext.azure.log_exporter import AzureLogHandler
 import logging
 
+
 # Replace with your Azure Application Insights Connection String
-#CONNECTION_STRING = ""
+CONNECTION_STRING = "InstrumentationKey=9c9b498c-924a-4e38-9c16-df82c8879bfb;IngestionEndpoint=https://centralus-2.in.applicationinsights.azure.com/;LiveEndpoint=https://centralus.livediagnostics.monitor.azure.com/;ApplicationId=24142d03-9ded-4d9f-a422-5d6a342f8436"
 
 ## Set up logging
-#logger = logging.getLogger(__name__)
-#logger.setLevel(logging.INFO)
-#logger.addHandler(AzureLogHandler(connection_string=CONNECTION_STRING))
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+logger.addHandler(AzureLogHandler(connection_string=CONNECTION_STRING))
 
 # Track unique sessions
-#if "session_id" not in st.session_state:
-#    st.session_state["session_id"] = str(uuid.uuid4())  # Generate a unique session ID
-#    session_start_time = datetime.now().isoformat()
-#    logger.info(f"New user session: {st.session_state['session_id']} at {session_start_time}")
+if "session_id" not in st.session_state:
+    st.session_state["session_id"] = str(uuid.uuid4())  # Generate a unique session ID
+    session_start_time = datetime.now().isoformat()
+    logger.info(f"New user session: {st.session_state['session_id']} at {session_start_time}")
+
 
 
 
@@ -84,7 +86,7 @@ st.markdown(
 st.sidebar.markdown('<div class="sidebar-content">', unsafe_allow_html=True)
 
 # Sidebar - Vehicle State Incentive Programs
-with st.sidebar.expander("💰 Vehicle State Incentive Programs", expanded=True):
+with st.sidebar.expander("💰 Vehicle State Incentive Programs", expanded=False):
     st.markdown("**Filter incentives by state:**")
 
     # Incentive program data
@@ -115,7 +117,7 @@ with st.sidebar.expander("💰 Vehicle State Incentive Programs", expanded=True)
     st.markdown(df.to_html(index=False, escape=False), unsafe_allow_html=True)
 
 # Sidebar - Infrastructure Incentives
-with st.sidebar.expander("🔌 Infrastructure State Incentive Programs", expanded=True):
+with st.sidebar.expander("🔌 Infrastructure State Incentive Programs", expanded=False):
     st.markdown("**Filter infrastructure incentives by state:**")
 
     # Infrastructure incentive data
