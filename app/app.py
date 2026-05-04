@@ -11,10 +11,13 @@ import logging
 # Replace with your Azure Application Insights Connection String
 CONNECTION_STRING = "InstrumentationKey=9c9b498c-924a-4e38-9c16-df82c8879bfb;IngestionEndpoint=https://centralus-2.in.applicationinsights.azure.com/;LiveEndpoint=https://centralus.livediagnostics.monitor.azure.com/;ApplicationId=24142d03-9ded-4d9f-a422-5d6a342f8436"
 
+
 ## Set up logging
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
-logger.addHandler(AzureLogHandler(connection_string=CONNECTION_STRING))
+if not logger.handlers:
+    logger.addHandler(AzureLogHandler(connection_string=CONNECTION_STRING))
+
 
 # Track unique sessions
 if "session_id" not in st.session_state:
@@ -47,8 +50,8 @@ st.set_page_config(
 
 import base64
 from pathlib import Path
-import streamlit as st
 
+@st.cache_data
 def img_to_base64(img_path: str) -> str:
     return base64.b64encode(Path(img_path).read_bytes()).decode()
 
@@ -189,7 +192,7 @@ with st.sidebar.expander("⚠️ Disclaimer", expanded=False):
 #st.title('FleetIQ')
 
 # Automatically load datasets at the start of the app
-#@st.cache_data
+@st.cache_data
 def load_datasets():
     """
     Loads various datasets required for the total cost of ownership (TCO) analysis tool.
