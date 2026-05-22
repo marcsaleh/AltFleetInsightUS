@@ -20,12 +20,18 @@ if not logger.handlers:
 
 
 # Track unique sessions
+#if "session_id" not in st.session_state:
+#    st.session_state["session_id"] = str(uuid.uuid4())  # Generate a unique session ID
+#    session_start_time = datetime.now().isoformat()
+#    logger.info(f"New user session: {st.session_state['session_id']} at {session_start_time}")
+
 if "session_id" not in st.session_state:
-    st.session_state["session_id"] = str(uuid.uuid4())  # Generate a unique session ID
-    session_start_time = datetime.now().isoformat()
-    logger.info(f"New user session: {st.session_state['session_id']} at {session_start_time}")
+    st.session_state.session_id = str(uuid.uuid4())
+    st.session_state.logged_session = False
 
-
+if not st.session_state.logged_session:
+    logger.info(f"New user session: {st.session_state.session_id}")
+    st.session_state.logged_session = True
 
 
 # Set the page config with a custom title, favicon, and hide the Streamlit menu
